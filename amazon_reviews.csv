@@ -1,0 +1,1001 @@
+product_name,category,price,discounted_price,rating,rating_count,review_title,reviewer_name,verified_purchase,review_date
+Coffee Maker Drip,Home & Kitchen,26.58,21.03,4,40,Exceeded expectations,Steve M.,Yes,2023-09-09
+Mechanical Keyboard RGB,Electronics,190.18,161.95,5,156,Worth every penny,Steve G.,Yes,2024-10-01
+Yoga Pants Flex,Clothing,37.67,35.88,5,412,Worth every penny,Charlie X.,No,2024-01-04
+Wireless Earbuds Pro,Electronics,74.46,74.46,5,263,Highly recommend,Karen Z.,Yes,2022-05-30
+Toaster Oven Digital,Home & Kitchen,73.56,54.22,3,328,Average quality,Paul F.,Yes,2023-10-13
+Knife Set Premium,Home & Kitchen,69.93,68.7,3,215,Average quality,Paul W.,Yes,2024-12-12
+Makeup Brush Set,Beauty,31.04,27.06,2,235,Disappointed,Steve D.,Yes,2023-03-27
+Smart Watch X200,Electronics,71.63,71.63,5,378,Highly recommend,Tina U.,Yes,2023-01-12
+Sports Socks Pack,Clothing,20.59,20.59,5,57,Exceeded expectations,Jack B.,Yes,2024-12-02
+Smart Watch X200,Electronics,185.22,185.22,5,134,Great product!,Steve M.,Yes,2022-05-20
+USB-C Hub 7-in-1,Electronics,91.84,80.31,1,50,Would not recommend,Charlie Y.,Yes,2024-10-31
+Python for Beginners,Books,25.83,25.35,5,879,Love it!,Bob Y.,Yes,2022-11-23
+Wireless Earbuds Pro,Electronics,87.35,83.28,5,576,Amazing quality,Karen L.,No,2024-05-01
+Mechanical Keyboard RGB,Electronics,53.61,53.61,4,8,Love it!,Nick N.,Yes,2024-04-06
+Non-Stick Pan Set,Home & Kitchen,30.77,30.77,3,244,Good for the price,Diana Y.,Yes,2022-07-08
+Machine Learning Guide,Books,35.11,33.16,3,518,Average quality,Hank X.,Yes,2023-12-17
+USB-C Hub 7-in-1,Electronics,114.09,84.65,4,39,Love it!,Tina A.,Yes,2023-03-30
+Data Science Handbook,Books,10.14,10.14,5,167,Exceeded expectations,Mia B.,No,2023-03-13
+Dumbbell Set Adjustable,Sports,84.44,61.77,4,494,Amazing quality,Jack Q.,Yes,2023-11-11
+USB-C Hub 7-in-1,Electronics,22.32,16.91,4,6,Great product!,Bob K.,Yes,2023-11-10
+Dumbbell Set Adjustable,Sports,30.06,25.14,5,239,Highly recommend,Rachel S.,No,2024-01-09
+Blender High Speed,Home & Kitchen,115.15,115.15,3,70,Good for the price,Eve K.,Yes,2023-08-25
+Running Jacket Lite,Clothing,25.19,20.75,4,516,Exceeded expectations,Quinn W.,No,2023-03-24
+Wireless Earbuds Pro,Electronics,176.34,176.34,4,708,Exceeded expectations,Hank E.,Yes,2024-12-22
+Stuffed Animal Bear,Toys,34.26,25.32,4,577,Worth every penny,Bob V.,Yes,2024-08-30
+Running Jacket Lite,Clothing,24.83,24.83,5,128,Amazing quality,Mia O.,Yes,2022-01-19
+Bluetooth Speaker Mini,Electronics,192.98,192.98,3,396,Good for the price,Tina S.,Yes,2022-08-23
+Laptop Stand Adjustable,Electronics,153.66,126.13,5,372,Worth every penny,Quinn C.,No,2023-12-10
+Jump Rope Speed,Sports,111.41,104.02,5,76,Exceeded expectations,Hank N.,Yes,2024-07-01
+Coffee Maker Drip,Home & Kitchen,98.57,86.28,2,353,Disappointed,Jack Z.,Yes,2023-05-08
+Yoga Mat Extra Thick,Sports,52.42,52.37,5,7,Best purchase ever,Mia E.,Yes,2023-05-15
+Instant Pot 6Qt,Home & Kitchen,92.26,90.82,3,181,As described,Eve K.,Yes,2022-03-23
+Python for Beginners,Books,21.17,17.47,2,52,Disappointed,Charlie P.,Yes,2023-10-20
+Tire Pressure Gauge,Automotive,120.77,120.77,5,25,Highly recommend,Steve X.,No,2024-02-21
+Casual Hoodie,Clothing,29.3,24.77,5,16,Great product!,Bob R.,Yes,2022-08-21
+Deep Work,Books,36.74,36.39,5,238,Very satisfied,Mia I.,Yes,2024-03-01
+Yoga Mat Extra Thick,Sports,20.03,17.2,4,83,Best purchase ever,Charlie M.,Yes,2023-06-10
+Instant Pot 6Qt,Home & Kitchen,81.52,68.2,2,258,Disappointed,Quinn N.,Yes,2023-08-03
+Lip Balm Natural,Beauty,55.78,55.78,5,13,Worth every penny,Eve Y.,Yes,2022-02-20
+Python for Beginners,Books,18.01,18.01,4,75,Highly recommend,Eve P.,Yes,2024-11-24
+Instant Pot 6Qt,Home & Kitchen,93.13,90.94,3,155,Decent product,Rachel G.,No,2024-02-07
+Webcam 1080p HD,Electronics,152.13,152.13,4,312,Great product!,Paul M.,Yes,2024-11-19
+Smart Watch X200,Electronics,64.23,47.09,1,76,Would not recommend,Steve G.,Yes,2024-11-07
+Slim Fit Jeans,Clothing,51.03,51.03,5,196,Highly recommend,Rachel T.,Yes,2024-07-01
+Power Bank 20000mAh,Electronics,69.61,69.61,4,434,Amazing quality,Quinn H.,No,2024-09-23
+Power Bank 20000mAh,Electronics,76.52,56.27,5,191,Great product!,Hank C.,Yes,2022-03-31
+Mechanical Keyboard RGB,Electronics,120.41,120.41,4,53,Highly recommend,Iris Y.,Yes,2023-08-31
+Slim Fit Jeans,Clothing,45.94,45.94,5,4,Amazing quality,Nick K.,Yes,2023-01-30
+Water Filter Pitcher,Home & Kitchen,143.14,143.14,5,408,Great product!,Steve C.,Yes,2023-10-19
+Casual Hoodie,Clothing,28.5,28.5,3,4,Decent product,Diana V.,Yes,2024-11-18
+Cotton T-Shirt Classic,Clothing,78.65,78.65,5,415,Highly recommend,Nick N.,Yes,2022-06-18
+Laptop Stand Adjustable,Electronics,152.31,125.89,5,150,Worth every penny,Leo L.,Yes,2022-07-16
+Sports Socks Pack,Clothing,22.27,17.63,5,559,Worth every penny,Grace K.,Yes,2022-12-09
+LEGO City Set,Toys,24.53,24.53,5,320,Exceeded expectations,Leo T.,No,2024-12-28
+Air Fryer 5L,Home & Kitchen,91.05,91.05,5,1236,Love it!,Alice Y.,Yes,2022-01-16
+Water Filter Pitcher,Home & Kitchen,140.19,98.22,5,86,Great product!,Jack F.,Yes,2022-05-15
+Webcam 1080p HD,Electronics,198.21,142.76,2,291,Disappointed,Leo T.,Yes,2023-03-08
+Toaster Oven Digital,Home & Kitchen,88.11,88.11,3,102,Good for the price,Olivia T.,Yes,2023-03-13
+Smart Watch X200,Electronics,190.85,151.33,2,130,Not as advertised,Eve O.,Yes,2024-05-18
+Sports Socks Pack,Clothing,13.4,10.74,4,197,Amazing quality,Bob H.,Yes,2022-08-01
+OBD2 Scanner,Automotive,81.1,81.1,4,413,Love it!,Grace V.,Yes,2023-02-26
+Coffee Maker Drip,Home & Kitchen,51.08,48.53,4,828,Love it!,Leo E.,Yes,2024-06-10
+Data Science Handbook,Books,12.83,12.83,5,292,Exceeded expectations,Charlie D.,Yes,2022-05-28
+Blender High Speed,Home & Kitchen,86.24,86.24,4,108,Worth every penny,Bob H.,Yes,2022-11-11
+Jump Rope Speed,Sports,15.76,14.63,4,109,Highly recommend,Tina E.,Yes,2022-02-18
+Resistance Bands Set,Sports,83.67,62.31,5,267,Highly recommend,Jack A.,Yes,2024-07-29
+Bluetooth Speaker Mini,Electronics,184.85,134.35,3,54,Okay product,Karen W.,Yes,2023-11-11
+Laptop Stand Adjustable,Electronics,105.25,93.36,5,23,Great product!,Diana J.,Yes,2022-03-19
+Yoga Pants Flex,Clothing,47.74,47.74,2,87,Broke quickly,Olivia P.,Yes,2022-06-29
+Winter Coat Warm,Clothing,11.82,9.48,5,67,Worth every penny,Alice K.,Yes,2022-05-31
+Laptop Stand Adjustable,Electronics,149.6,149.6,5,70,Worth every penny,Grace X.,Yes,2022-04-22
+Magnetic Tiles 60pc,Toys,88.2,73.46,3,53,Does the job,Rachel G.,Yes,2022-12-31
+Sunscreen SPF50,Beauty,33.61,33.61,1,8,Not worth it,Grace R.,Yes,2023-05-31
+Slim Fit Jeans,Clothing,57.18,57.18,5,3,Great product!,Quinn Y.,No,2022-05-25
+Coffee Maker Drip,Home & Kitchen,33.91,33.91,5,879,Highly recommend,Iris R.,No,2023-04-12
+Casual Hoodie,Clothing,46.71,46.71,5,111,Worth every penny,Paul T.,No,2023-06-14
+Sunscreen SPF50,Beauty,16.55,15.42,5,97,Very satisfied,Eve W.,Yes,2024-04-14
+Thinking Fast and Slow,Books,16.57,16.57,2,227,Poor quality,Alice M.,Yes,2024-03-05
+Casual Hoodie,Clothing,29.2,26.08,4,49,Exceeded expectations,Steve V.,No,2024-07-12
+Webcam 1080p HD,Electronics,30.11,30.11,3,598,Average quality,Quinn B.,Yes,2024-04-08
+Deep Work,Books,22.69,19.57,5,308,Highly recommend,Iris F.,Yes,2024-06-05
+Sports Socks Pack,Clothing,79.32,78.3,5,18,Exceeded expectations,Bob J.,Yes,2023-10-10
+The Lean Startup,Books,17.6,16.28,4,108,Love it!,Grace Z.,Yes,2022-02-04
+Sunscreen SPF50,Beauty,41.95,29.6,2,422,Would not recommend,Tina I.,No,2024-03-08
+Slim Fit Jeans,Clothing,63.17,54.3,4,579,Best purchase ever,Bob O.,Yes,2022-08-31
+Mechanical Keyboard RGB,Electronics,90.47,70.79,4,125,Worth every penny,Alice C.,Yes,2024-12-31
+Car Air Freshener,Automotive,103.96,103.96,5,190,Worth every penny,Mia V.,Yes,2022-01-13
+Deep Work,Books,29.37,27.95,5,36,Best purchase ever,Iris V.,Yes,2022-05-10
+Laptop Stand Adjustable,Electronics,47.2,34.24,5,945,Highly recommend,Leo D.,Yes,2022-04-04
+Mechanical Keyboard RGB,Electronics,172.38,137.24,4,52,Love it!,Alice J.,Yes,2022-05-29
+Bluetooth Speaker Mini,Electronics,161.1,136.52,3,572,Decent product,Mia H.,Yes,2024-01-03
+Water Filter Pitcher,Home & Kitchen,147.05,117.93,5,209,Very satisfied,Mia Q.,No,2024-10-26
+Resistance Bands Set,Sports,108.22,108.22,5,187,Highly recommend,Diana K.,Yes,2022-08-06
+Slim Fit Jeans,Clothing,27.07,27.07,5,143,Exceeded expectations,Paul T.,Yes,2023-08-17
+Smart Watch X200,Electronics,179.69,146.38,5,52,Very satisfied,Rachel C.,Yes,2023-09-10
+Slim Fit Jeans,Clothing,28.98,28.98,4,38,Love it!,Frank G.,Yes,2022-06-27
+Car Air Freshener,Automotive,126.84,109.4,5,49,Amazing quality,Quinn O.,Yes,2023-07-31
+Data Science Handbook,Books,37.77,37.77,4,41,Great product!,Rachel W.,Yes,2024-06-15
+Tire Pressure Gauge,Automotive,121.88,121.88,1,302,Disappointed,Alice B.,Yes,2024-02-21
+Hair Dryer Ionic,Beauty,56.57,42.22,3,86,Does the job,Hank Q.,Yes,2024-03-20
+Wireless Earbuds Pro,Electronics,17.9,16.17,1,11,Would not recommend,Jack K.,No,2022-03-05
+Blender High Speed,Home & Kitchen,97.3,97.3,5,695,Highly recommend,Paul M.,Yes,2024-08-28
+Coffee Maker Drip,Home & Kitchen,126.72,95.6,4,430,Best purchase ever,Frank A.,Yes,2022-11-17
+The Lean Startup,Books,18.57,14.66,5,525,Amazing quality,Leo V.,Yes,2024-12-28
+Yoga Pants Flex,Clothing,27.32,27.32,5,1056,Very satisfied,Leo L.,Yes,2023-03-27
+Toaster Oven Digital,Home & Kitchen,109.0,109.0,4,38,Amazing quality,Jack H.,Yes,2022-10-07
+Wireless Earbuds Pro,Electronics,77.36,60.14,4,100,Very satisfied,Quinn I.,No,2024-03-11
+Formal Shirt White,Clothing,20.79,20.16,5,283,Worth every penny,Bob U.,No,2023-08-28
+Atomic Habits,Books,32.16,32.16,4,238,Best purchase ever,Iris M.,Yes,2022-10-23
+Play-Doh Mega Set,Toys,70.13,70.13,2,33,Poor quality,Alice R.,No,2023-09-03
+Vitamin C Serum,Beauty,8.44,6.51,4,338,Best purchase ever,Iris H.,Yes,2024-02-04
+Casual Hoodie,Clothing,26.25,22.35,3,50,Good for the price,Eve K.,Yes,2022-01-23
+Machine Learning Guide,Books,19.89,15.53,5,50,Highly recommend,Mia V.,Yes,2022-10-17
+Power Bank 20000mAh,Electronics,192.14,192.14,5,153,Very satisfied,Eve C.,No,2022-09-10
+Makeup Brush Set,Beauty,58.78,42.3,5,179,Love it!,Mia Q.,Yes,2022-03-27
+Vitamin C Serum,Beauty,7.12,7.12,5,173,Exceeded expectations,Tina U.,Yes,2022-01-11
+Yoga Pants Flex,Clothing,65.34,63.65,5,19,Great product!,Hank N.,Yes,2024-03-18
+Blender High Speed,Home & Kitchen,84.27,84.27,3,419,As described,Hank S.,Yes,2022-06-24
+Coffee Maker Drip,Home & Kitchen,92.38,80.91,5,61,Very satisfied,Eve N.,Yes,2023-09-17
+Laptop Stand Adjustable,Electronics,95.88,95.88,5,27,Highly recommend,Jack T.,No,2023-03-07
+Dumbbell Set Adjustable,Sports,74.11,66.36,5,439,Best purchase ever,Karen O.,Yes,2023-12-06
+The Lean Startup,Books,11.73,11.73,5,623,Very satisfied,Rachel E.,Yes,2023-03-10
+Yoga Mat Extra Thick,Sports,41.08,34.25,4,396,Highly recommend,Grace U.,No,2024-04-25
+Atomic Habits,Books,30.82,26.2,3,331,Decent product,Eve S.,Yes,2024-11-15
+Wireless Earbuds Pro,Electronics,65.06,48.32,4,212,Exceeded expectations,Rachel V.,No,2022-10-19
+Running Jacket Lite,Clothing,60.81,45.64,4,160,Best purchase ever,Grace E.,Yes,2022-11-26
+Laptop Stand Adjustable,Electronics,44.03,44.03,5,18,Best purchase ever,Jack W.,Yes,2023-01-12
+Stuffed Animal Bear,Toys,35.33,34.92,5,105,Highly recommend,Quinn E.,Yes,2023-03-29
+Eye Cream Anti-Age,Beauty,10.52,7.5,1,93,Not as advertised,Nick Y.,No,2023-06-02
+Pull Up Bar Door,Sports,58.3,57.62,5,60,Exceeded expectations,Eve U.,Yes,2023-02-02
+Cotton T-Shirt Classic,Clothing,17.16,15.37,4,257,Highly recommend,Steve F.,Yes,2022-08-23
+Bluetooth Speaker Mini,Electronics,50.16,50.16,4,136,Love it!,Karen C.,Yes,2023-01-07
+Hair Dryer Ionic,Beauty,36.62,36.62,3,16,Good for the price,Rachel R.,Yes,2022-04-22
+Science Kit Kids,Toys,42.64,33.34,4,49,Love it!,Diana F.,Yes,2024-08-02
+Smart Watch X200,Electronics,32.57,32.57,5,229,Worth every penny,Karen E.,Yes,2022-05-30
+Machine Learning Guide,Books,11.97,11.97,4,15,Best purchase ever,Alice Y.,No,2023-08-19
+Wireless Earbuds Pro,Electronics,160.61,122.68,5,381,Highly recommend,Karen N.,Yes,2022-05-18
+Resistance Bands Set,Sports,9.87,7.74,5,136,Worth every penny,Nick J.,Yes,2023-05-29
+Dumbbell Set Adjustable,Sports,51.43,51.43,4,131,Best purchase ever,Olivia X.,Yes,2022-07-21
+Webcam 1080p HD,Electronics,150.09,108.21,5,179,Very satisfied,Iris E.,No,2023-02-09
+The Lean Startup,Books,36.97,36.97,5,348,Amazing quality,Grace D.,Yes,2024-09-24
+Thinking Fast and Slow,Books,26.3,24.96,4,85,Amazing quality,Eve F.,Yes,2023-11-09
+Yoga Pants Flex,Clothing,57.97,57.95,4,226,Best purchase ever,Alice Y.,Yes,2024-01-02
+Hair Dryer Ionic,Beauty,13.13,10.02,4,166,Love it!,Tina T.,Yes,2022-09-20
+Yoga Pants Flex,Clothing,28.79,27.08,4,62,Very satisfied,Iris T.,Yes,2023-04-26
+Laptop Stand Adjustable,Electronics,27.19,26.74,1,421,Not as advertised,Steve T.,Yes,2022-07-24
+Deep Work,Books,17.32,17.21,5,319,Best purchase ever,Hank T.,Yes,2023-08-07
+Coffee Maker Drip,Home & Kitchen,82.95,64.86,5,214,Very satisfied,Hank H.,Yes,2022-05-23
+Wireless Earbuds Pro,Electronics,81.81,65.16,2,380,Broke quickly,Alice L.,Yes,2023-02-01
+Running Jacket Lite,Clothing,60.95,60.95,4,403,Amazing quality,Charlie W.,Yes,2023-10-13
+Jump Starter Portable,Automotive,110.95,88.6,5,246,Exceeded expectations,Paul E.,Yes,2024-09-22
+Air Fryer 5L,Home & Kitchen,79.52,58.85,4,362,Very satisfied,Quinn T.,Yes,2024-07-11
+Slim Fit Jeans,Clothing,31.82,28.09,3,239,Decent product,Paul W.,Yes,2023-11-04
+Atomic Habits,Books,19.62,19.62,4,227,Highly recommend,Leo F.,Yes,2023-09-19
+Power Bank 20000mAh,Electronics,85.77,85.77,5,192,Amazing quality,Mia P.,Yes,2022-11-09
+Webcam 1080p HD,Electronics,96.93,96.93,4,279,Very satisfied,Paul E.,Yes,2024-01-17
+Sports Socks Pack,Clothing,68.07,61.87,5,34,Very satisfied,Frank G.,Yes,2023-10-10
+Thinking Fast and Slow,Books,39.18,32.04,5,425,Worth every penny,Hank B.,Yes,2024-05-27
+Webcam 1080p HD,Electronics,71.57,71.57,4,410,Exceeded expectations,Nick Y.,Yes,2022-12-12
+Laptop Stand Adjustable,Electronics,190.25,170.35,5,5,Great product!,Alice I.,Yes,2022-01-10
+USB-C Hub 7-in-1,Electronics,103.62,100.28,4,349,Highly recommend,Nick H.,Yes,2023-10-04
+Coffee Maker Drip,Home & Kitchen,145.88,121.6,5,27,Great product!,Grace Y.,Yes,2023-05-20
+Mechanical Keyboard RGB,Electronics,69.91,69.91,5,81,Highly recommend,Grace C.,Yes,2023-03-30
+Sunscreen SPF50,Beauty,40.8,33.17,5,272,Very satisfied,Frank O.,Yes,2024-06-12
+Vitamin C Serum,Beauty,48.5,39.58,2,35,Not as advertised,Tina P.,Yes,2023-07-21
+Laptop Stand Adjustable,Electronics,85.06,80.26,5,340,Great product!,Karen O.,No,2024-01-07
+Power Bank 20000mAh,Electronics,83.52,61.59,4,356,Exceeded expectations,Hank N.,Yes,2022-10-03
+Knife Set Premium,Home & Kitchen,46.96,46.96,3,141,Average quality,Mia Y.,Yes,2023-11-11
+Wireless Earbuds Pro,Electronics,49.28,49.28,2,1,Broke quickly,Bob T.,Yes,2024-09-09
+USB-C Hub 7-in-1,Electronics,20.97,20.97,5,67,Love it!,Mia X.,Yes,2024-08-05
+Science Kit Kids,Toys,47.92,44.45,5,191,Exceeded expectations,Karen M.,Yes,2024-07-01
+Python for Beginners,Books,15.2,13.87,1,794,Poor quality,Tina X.,Yes,2024-01-05
+Python for Beginners,Books,34.6,34.6,5,199,Highly recommend,Steve T.,Yes,2023-09-18
+Dumbbell Set Adjustable,Sports,100.21,88.94,4,60,Highly recommend,Rachel Q.,No,2024-09-24
+Foam Roller Deep,Sports,83.37,63.89,5,201,Very satisfied,Bob Q.,Yes,2022-08-11
+USB-C Hub 7-in-1,Electronics,132.17,130.87,3,155,Average quality,Diana O.,Yes,2022-12-26
+Bluetooth Speaker Mini,Electronics,61.75,61.75,5,302,Worth every penny,Olivia B.,Yes,2022-06-17
+Formal Shirt White,Clothing,60.56,55.18,4,22,Amazing quality,Hank Q.,Yes,2023-07-29
+Formal Shirt White,Clothing,16.17,11.35,5,286,Very satisfied,Rachel M.,Yes,2022-10-14
+Deep Work,Books,23.83,21.25,3,155,Average quality,Bob R.,Yes,2023-02-07
+Coffee Maker Drip,Home & Kitchen,90.46,90.46,4,659,Amazing quality,Mia Q.,Yes,2023-06-24
+Air Fryer 5L,Home & Kitchen,74.38,74.38,3,83,Okay product,Bob G.,Yes,2022-06-06
+OBD2 Scanner,Automotive,144.91,108.85,5,200,Love it!,Jack O.,Yes,2022-06-04
+Webcam 1080p HD,Electronics,145.79,145.79,5,537,Great product!,Mia J.,Yes,2022-02-08
+Running Jacket Lite,Clothing,51.57,46.5,4,21,Great product!,Jack O.,Yes,2024-11-04
+Running Jacket Lite,Clothing,17.66,13.29,5,553,Best purchase ever,Frank N.,No,2022-03-05
+Sunscreen SPF50,Beauty,41.66,38.49,5,232,Highly recommend,Jack T.,No,2024-04-09
+USB-C Hub 7-in-1,Electronics,46.76,46.76,5,14,Best purchase ever,Bob W.,Yes,2023-03-12
+Mechanical Keyboard RGB,Electronics,24.18,23.13,5,71,Very satisfied,Quinn E.,Yes,2022-03-17
+Slim Fit Jeans,Clothing,57.91,53.2,4,246,Love it!,Olivia U.,Yes,2023-06-18
+Winter Coat Warm,Clothing,78.17,78.17,2,13,Would not recommend,Olivia C.,Yes,2024-08-24
+Cotton T-Shirt Classic,Clothing,78.09,55.2,5,174,Very satisfied,Quinn D.,No,2022-11-01
+Webcam 1080p HD,Electronics,34.6,31.25,5,84,Very satisfied,Frank Y.,Yes,2024-01-20
+LEGO City Set,Toys,31.69,28.65,5,193,Great product!,Steve W.,Yes,2024-03-14
+Sports Socks Pack,Clothing,63.27,44.33,4,9,Great product!,Rachel E.,Yes,2023-04-03
+Vitamin C Serum,Beauty,37.92,34.2,4,410,Exceeded expectations,Mia N.,Yes,2023-08-19
+Deep Work,Books,15.56,14.88,5,726,Amazing quality,Karen O.,Yes,2022-10-02
+Webcam 1080p HD,Electronics,88.35,88.35,5,693,Exceeded expectations,Alice F.,No,2024-08-09
+Car Air Freshener,Automotive,111.05,91.29,5,276,Very satisfied,Olivia S.,Yes,2024-10-23
+Gym Gloves Grip,Sports,24.88,24.88,5,27,Best purchase ever,Grace O.,Yes,2024-11-11
+Stuffed Animal Bear,Toys,49.11,41.68,5,283,Exceeded expectations,Charlie I.,No,2022-07-05
+Remote Control Car,Toys,43.28,30.86,2,4,Poor quality,Karen W.,Yes,2024-03-23
+Gym Gloves Grip,Sports,21.99,15.7,3,4,As described,Frank W.,Yes,2024-01-16
+Wireless Earbuds Pro,Electronics,41.7,35.85,5,78,Best purchase ever,Diana C.,Yes,2024-10-25
+Deep Work,Books,18.98,18.98,5,134,Very satisfied,Diana W.,Yes,2022-01-22
+Bluetooth Speaker Mini,Electronics,111.9,111.9,1,294,Disappointed,Olivia U.,No,2023-05-05
+Sports Socks Pack,Clothing,43.82,43.82,3,229,Okay product,Leo C.,Yes,2022-12-06
+Mechanical Keyboard RGB,Electronics,149.06,140.46,5,118,Very satisfied,Quinn W.,No,2024-11-18
+Slim Fit Jeans,Clothing,32.81,25.19,1,63,Not as advertised,Mia X.,Yes,2022-10-15
+Car Air Freshener,Automotive,18.59,18.35,3,1170,Okay product,Quinn T.,No,2024-07-02
+Slim Fit Jeans,Clothing,18.55,14.08,5,111,Very satisfied,Frank M.,Yes,2022-11-23
+Dumbbell Set Adjustable,Sports,81.56,81.56,5,120,Very satisfied,Rachel M.,Yes,2023-01-02
+The Lean Startup,Books,34.59,34.59,5,35,Exceeded expectations,Bob Y.,Yes,2022-10-27
+Winter Coat Warm,Clothing,27.07,19.18,4,316,Great product!,Frank K.,No,2024-09-17
+Remote Control Car,Toys,54.64,38.64,5,236,Best purchase ever,Steve V.,Yes,2024-01-05
+Car Air Freshener,Automotive,105.66,103.6,4,49,Amazing quality,Eve F.,Yes,2022-03-24
+Atomic Habits,Books,15.91,12.32,4,17,Very satisfied,Eve F.,Yes,2023-03-25
+Blender High Speed,Home & Kitchen,101.87,100.61,5,228,Best purchase ever,Bob N.,Yes,2024-09-25
+USB-C Hub 7-in-1,Electronics,133.98,126.81,5,212,Love it!,Jack J.,No,2023-04-20
+Yoga Pants Flex,Clothing,38.68,29.82,5,63,Amazing quality,Olivia J.,Yes,2022-05-09
+Puzzle 1000pc Nature,Toys,59.13,59.13,5,602,Love it!,Frank D.,Yes,2023-06-26
+Data Science Handbook,Books,22.88,19.03,5,32,Great product!,Eve G.,Yes,2024-01-27
+Data Science Handbook,Books,21.43,21.43,2,113,Disappointed,Alice T.,Yes,2023-04-25
+Non-Stick Pan Set,Home & Kitchen,48.41,35.7,4,575,Great product!,Iris A.,Yes,2022-03-29
+Mechanical Keyboard RGB,Electronics,154.18,150.33,4,108,Exceeded expectations,Olivia P.,Yes,2023-02-28
+Deep Work,Books,27.47,27.47,4,203,Love it!,Paul R.,Yes,2024-11-26
+Machine Learning Guide,Books,14.47,13.14,5,101,Love it!,Alice T.,Yes,2024-01-10
+Makeup Brush Set,Beauty,15.84,11.38,4,64,Great product!,Paul H.,Yes,2024-03-05
+Smart Watch X200,Electronics,64.03,45.87,5,826,Love it!,Grace S.,Yes,2024-08-19
+Puzzle 1000pc Nature,Toys,53.21,44.14,5,105,Best purchase ever,Paul O.,Yes,2024-07-20
+Laptop Stand Adjustable,Electronics,73.47,73.47,5,449,Highly recommend,Nick O.,Yes,2022-04-06
+USB-C Hub 7-in-1,Electronics,129.08,129.08,5,52,Best purchase ever,Charlie T.,Yes,2022-03-23
+Machine Learning Guide,Books,12.15,12.15,5,47,Love it!,Tina A.,No,2023-10-26
+Instant Pot 6Qt,Home & Kitchen,130.91,107.41,4,6,Love it!,Hank R.,No,2022-07-31
+Smart Watch X200,Electronics,47.91,39.45,3,210,Average quality,Iris T.,Yes,2024-12-03
+Bluetooth Speaker Mini,Electronics,146.1,136.79,5,91,Love it!,Rachel G.,Yes,2023-07-15
+Shampoo Argan Oil,Beauty,56.52,47.25,4,399,Great product!,Bob F.,No,2023-06-24
+Power Bank 20000mAh,Electronics,30.68,25.42,1,128,Not as advertised,Eve B.,Yes,2022-12-23
+Thinking Fast and Slow,Books,18.02,13.16,5,689,Worth every penny,Leo B.,Yes,2024-02-11
+Blender High Speed,Home & Kitchen,59.7,53.89,3,41,Good for the price,Eve B.,Yes,2024-02-15
+Yoga Pants Flex,Clothing,36.13,36.13,5,405,Worth every penny,Steve T.,Yes,2024-01-19
+Machine Learning Guide,Books,24.84,21.77,5,299,Amazing quality,Jack K.,Yes,2022-06-09
+Thinking Fast and Slow,Books,28.08,28.08,5,294,Highly recommend,Charlie B.,Yes,2024-11-24
+Remote Control Car,Toys,40.7,40.7,4,372,Highly recommend,Diana N.,No,2023-05-31
+Power Bank 20000mAh,Electronics,106.02,93.07,1,286,Poor quality,Frank F.,No,2024-02-10
+Water Filter Pitcher,Home & Kitchen,111.14,107.95,5,196,Highly recommend,Jack T.,Yes,2023-04-02
+Laptop Stand Adjustable,Electronics,187.18,187.18,4,28,Love it!,Tina S.,Yes,2024-11-23
+Formal Shirt White,Clothing,49.33,39.79,5,6,Exceeded expectations,Rachel F.,Yes,2024-04-11
+Air Fryer 5L,Home & Kitchen,57.55,51.0,5,507,Great product!,Olivia X.,Yes,2023-12-24
+Yoga Pants Flex,Clothing,32.51,32.51,5,191,Love it!,Steve L.,Yes,2023-12-08
+Slim Fit Jeans,Clothing,53.85,53.85,4,318,Great product!,Bob C.,Yes,2024-09-24
+Foam Roller Deep,Sports,115.1,115.1,4,131,Very satisfied,Jack K.,No,2024-09-14
+Power Bank 20000mAh,Electronics,40.75,40.75,5,24,Best purchase ever,Leo M.,Yes,2022-01-14
+Thinking Fast and Slow,Books,39.83,34.01,4,26,Best purchase ever,Charlie Y.,Yes,2024-10-24
+Car Phone Mount,Automotive,121.51,98.1,3,231,Does the job,Nick R.,No,2022-10-12
+Car Phone Mount,Automotive,126.89,109.42,5,112,Great product!,Charlie J.,Yes,2024-06-19
+Mechanical Keyboard RGB,Electronics,146.87,146.87,5,44,Very satisfied,Paul E.,Yes,2022-12-06
+Laptop Stand Adjustable,Electronics,105.41,92.87,5,135,Great product!,Diana W.,Yes,2023-04-17
+Slim Fit Jeans,Clothing,49.58,49.58,5,13,Love it!,Iris K.,Yes,2022-06-07
+Remote Control Car,Toys,33.86,28.96,2,174,Would not recommend,Quinn N.,Yes,2024-11-19
+Sunscreen SPF50,Beauty,17.86,13.28,5,62,Best purchase ever,Quinn G.,Yes,2023-07-30
+Shampoo Argan Oil,Beauty,14.74,14.74,5,319,Love it!,Grace T.,Yes,2023-03-10
+Cotton T-Shirt Classic,Clothing,50.09,43.47,3,74,Okay product,Bob D.,No,2022-11-04
+Power Bank 20000mAh,Electronics,116.7,116.7,5,121,Highly recommend,Steve X.,Yes,2023-01-18
+Dumbbell Set Adjustable,Sports,72.63,72.63,5,2,Very satisfied,Quinn C.,Yes,2022-11-19
+Blender High Speed,Home & Kitchen,121.25,108.18,5,15,Highly recommend,Paul X.,Yes,2024-01-12
+Water Filter Pitcher,Home & Kitchen,90.47,90.47,5,99,Worth every penny,Tina Z.,Yes,2022-08-31
+Jump Starter Portable,Automotive,139.69,139.69,5,130,Love it!,Jack N.,Yes,2023-04-17
+Air Fryer 5L,Home & Kitchen,91.52,91.52,4,183,Very satisfied,Tina K.,Yes,2024-04-29
+Power Bank 20000mAh,Electronics,34.94,31.71,4,68,Love it!,Iris Q.,Yes,2023-11-08
+Resistance Bands Set,Sports,92.64,84.09,5,237,Exceeded expectations,Steve T.,Yes,2022-08-21
+Yoga Pants Flex,Clothing,71.24,61.97,5,393,Amazing quality,Leo E.,Yes,2024-09-13
+Coffee Maker Drip,Home & Kitchen,78.96,78.96,5,302,Love it!,Tina S.,Yes,2024-09-07
+Puzzle 1000pc Nature,Toys,78.98,78.98,5,8,Best purchase ever,Paul Q.,Yes,2024-09-08
+Wireless Earbuds Pro,Electronics,96.23,96.23,5,130,Worth every penny,Paul P.,No,2023-03-08
+USB-C Hub 7-in-1,Electronics,158.49,158.49,5,22,Very satisfied,Frank T.,Yes,2022-11-27
+Power Bank 20000mAh,Electronics,54.82,53.35,5,55,Highly recommend,Hank W.,Yes,2024-04-21
+Thinking Fast and Slow,Books,27.3,26.64,5,863,Worth every penny,Jack G.,Yes,2022-02-15
+Running Jacket Lite,Clothing,71.26,64.7,5,30,Amazing quality,Alice D.,Yes,2023-05-15
+Blender High Speed,Home & Kitchen,102.26,78.12,5,138,Amazing quality,Alice O.,Yes,2022-03-30
+Blender High Speed,Home & Kitchen,100.1,93.14,5,192,Great product!,Diana X.,Yes,2022-09-19
+Laptop Stand Adjustable,Electronics,165.5,155.93,4,242,Amazing quality,Grace Z.,Yes,2022-11-26
+Toaster Oven Digital,Home & Kitchen,95.1,95.1,4,164,Best purchase ever,Tina N.,Yes,2022-10-03
+Winter Coat Warm,Clothing,30.67,29.07,2,1,Not worth it,Nick B.,Yes,2024-11-15
+Deep Work,Books,14.38,14.38,5,79,Highly recommend,Karen L.,Yes,2022-03-22
+Face Moisturizer SPF,Beauty,22.08,22.08,1,145,Not as advertised,Rachel Z.,Yes,2022-10-28
+Pull Up Bar Door,Sports,38.93,38.93,4,18,Highly recommend,Grace A.,No,2022-04-25
+Smart Watch X200,Electronics,198.31,147.29,5,86,Love it!,Grace W.,Yes,2022-12-07
+Yoga Pants Flex,Clothing,67.06,59.64,4,6,Amazing quality,Jack I.,Yes,2023-06-13
+Slim Fit Jeans,Clothing,77.88,62.92,5,16,Highly recommend,Charlie J.,Yes,2023-01-04
+Webcam 1080p HD,Electronics,185.46,140.9,1,101,Broke quickly,Jack Q.,Yes,2024-11-24
+Foam Roller Deep,Sports,105.11,105.11,1,28,Broke quickly,Rachel K.,Yes,2024-04-10
+Knife Set Premium,Home & Kitchen,111.19,111.19,5,167,Very satisfied,Alice D.,Yes,2022-02-08
+Running Jacket Lite,Clothing,28.47,28.47,4,233,Best purchase ever,Karen K.,Yes,2023-08-04
+Blender High Speed,Home & Kitchen,61.87,61.87,3,322,Good for the price,Mia X.,Yes,2022-06-25
+Data Science Handbook,Books,33.36,25.81,5,44,Love it!,Steve T.,Yes,2023-03-20
+Running Jacket Lite,Clothing,37.49,37.49,5,36,Highly recommend,Alice F.,Yes,2024-07-08
+Mechanical Keyboard RGB,Electronics,122.31,122.31,4,22,Amazing quality,Grace K.,Yes,2024-08-23
+Laptop Stand Adjustable,Electronics,131.64,131.64,5,202,Amazing quality,Karen V.,Yes,2024-09-13
+Sunscreen SPF50,Beauty,30.85,30.85,2,245,Would not recommend,Paul P.,Yes,2022-12-16
+Hair Dryer Ionic,Beauty,48.7,36.1,2,6,Not as advertised,Bob U.,Yes,2023-03-26
+Data Science Handbook,Books,21.88,21.13,5,550,Love it!,Eve P.,Yes,2024-04-21
+Foam Roller Deep,Sports,39.65,39.65,5,10,Worth every penny,Eve U.,Yes,2022-10-20
+The Lean Startup,Books,23.04,23.04,5,155,Best purchase ever,Olivia R.,Yes,2023-01-08
+Mechanical Keyboard RGB,Electronics,75.55,61.26,5,246,Best purchase ever,Karen O.,No,2024-11-12
+Bluetooth Speaker Mini,Electronics,176.74,176.74,5,409,Amazing quality,Nick X.,Yes,2023-06-26
+Slim Fit Jeans,Clothing,17.01,17.01,5,250,Very satisfied,Bob Q.,Yes,2022-12-10
+Sunscreen SPF50,Beauty,40.91,38.44,4,323,Exceeded expectations,Jack S.,Yes,2023-12-03
+Pull Up Bar Door,Sports,48.12,39.95,5,82,Great product!,Karen R.,Yes,2024-07-17
+Face Moisturizer SPF,Beauty,49.25,36.23,4,337,Exceeded expectations,Rachel A.,Yes,2022-05-21
+Eye Cream Anti-Age,Beauty,17.47,12.91,4,16,Very satisfied,Grace S.,Yes,2023-04-16
+Laptop Stand Adjustable,Electronics,168.09,168.09,2,450,Not worth it,Karen Z.,No,2024-02-14
+Bluetooth Speaker Mini,Electronics,65.17,59.19,1,158,Not as advertised,Leo C.,Yes,2024-02-29
+USB-C Hub 7-in-1,Electronics,78.47,78.47,5,339,Very satisfied,Eve I.,Yes,2022-09-28
+Pull Up Bar Door,Sports,23.12,20.6,5,120,Amazing quality,Alice K.,No,2022-08-11
+Shampoo Argan Oil,Beauty,49.35,45.84,5,206,Best purchase ever,Mia U.,Yes,2022-02-03
+Casual Hoodie,Clothing,63.36,60.59,4,149,Great product!,Rachel F.,Yes,2023-02-19
+Non-Stick Pan Set,Home & Kitchen,33.43,33.43,3,263,Okay product,Steve T.,Yes,2024-12-06
+Bluetooth Speaker Mini,Electronics,18.01,18.01,3,17,Good for the price,Mia F.,Yes,2024-10-29
+Puzzle 1000pc Nature,Toys,45.3,45.3,4,12,Love it!,Tina D.,Yes,2024-05-09
+Vitamin C Serum,Beauty,60.04,47.07,5,56,Very satisfied,Jack W.,No,2022-11-03
+Seat Cushion Memory Foam,Automotive,45.38,45.38,5,34,Exceeded expectations,Karen W.,Yes,2022-07-17
+Resistance Bands Set,Sports,110.84,97.01,5,410,Worth every penny,Bob I.,Yes,2022-12-30
+Face Moisturizer SPF,Beauty,22.09,20.28,4,49,Exceeded expectations,Nick C.,Yes,2024-09-01
+Mechanical Keyboard RGB,Electronics,32.76,30.71,5,744,Amazing quality,Paul H.,Yes,2022-03-21
+Instant Pot 6Qt,Home & Kitchen,53.04,39.79,5,82,Best purchase ever,Leo O.,No,2024-12-24
+Winter Coat Warm,Clothing,57.51,57.51,5,40,Best purchase ever,Jack G.,Yes,2024-10-27
+Puzzle 1000pc Nature,Toys,23.73,21.96,5,311,Love it!,Quinn J.,Yes,2022-08-29
+Jump Rope Speed,Sports,79.06,79.06,4,215,Highly recommend,Frank D.,Yes,2022-07-10
+Hair Dryer Ionic,Beauty,43.47,32.76,4,137,Worth every penny,Leo Z.,Yes,2024-09-14
+Jump Rope Speed,Sports,56.07,48.09,4,162,Best purchase ever,Bob Y.,Yes,2022-09-24
+Sports Socks Pack,Clothing,59.26,58.47,5,254,Amazing quality,Grace C.,Yes,2022-01-03
+Yoga Mat Extra Thick,Sports,31.9,27.89,1,51,Poor quality,Olivia Q.,Yes,2024-06-02
+Webcam 1080p HD,Electronics,39.55,37.07,3,1121,As described,Alice Z.,Yes,2024-12-05
+Eye Cream Anti-Age,Beauty,34.06,25.96,2,736,Not worth it,Paul Q.,Yes,2024-05-11
+Makeup Brush Set,Beauty,6.5,5.43,2,210,Poor quality,Eve G.,Yes,2024-01-29
+Power Bank 20000mAh,Electronics,78.56,78.56,5,44,Worth every penny,Karen P.,Yes,2022-03-30
+Foam Roller Deep,Sports,119.16,119.16,5,228,Best purchase ever,Quinn J.,Yes,2024-12-21
+Thinking Fast and Slow,Books,30.7,24.96,4,14,Worth every penny,Karen E.,Yes,2024-05-28
+Casual Hoodie,Clothing,15.45,15.45,2,6,Disappointed,Diana Q.,Yes,2023-04-15
+Dumbbell Set Adjustable,Sports,18.01,13.98,4,59,Exceeded expectations,Eve G.,Yes,2024-09-14
+Laptop Stand Adjustable,Electronics,34.58,34.58,4,124,Worth every penny,Bob O.,Yes,2024-02-20
+Power Bank 20000mAh,Electronics,177.98,140.34,3,405,Decent product,Mia W.,Yes,2023-12-19
+USB-C Hub 7-in-1,Electronics,85.8,65.98,4,259,Worth every penny,Quinn D.,Yes,2022-07-20
+Yoga Pants Flex,Clothing,55.9,55.9,4,271,Amazing quality,Alice J.,No,2024-05-21
+Shampoo Argan Oil,Beauty,13.85,11.09,5,110,Very satisfied,Bob V.,Yes,2022-10-02
+Magnetic Tiles 60pc,Toys,56.05,46.51,5,84,Very satisfied,Tina C.,Yes,2023-06-06
+Formal Shirt White,Clothing,55.99,55.99,2,92,Broke quickly,Karen O.,Yes,2024-09-04
+Toaster Oven Digital,Home & Kitchen,65.65,51.33,4,878,Best purchase ever,Bob D.,Yes,2023-04-22
+Winter Coat Warm,Clothing,53.97,53.97,5,8,Best purchase ever,Quinn Y.,Yes,2022-06-21
+Jump Starter Portable,Automotive,167.37,130.5,5,403,Great product!,Jack A.,Yes,2023-08-04
+Clean Code,Books,29.97,29.97,5,172,Worth every penny,Steve Y.,No,2024-04-16
+Puzzle 1000pc Nature,Toys,16.94,13.35,5,115,Exceeded expectations,Jack U.,Yes,2023-06-12
+Laptop Stand Adjustable,Electronics,40.9,35.34,3,258,Does the job,Grace K.,No,2023-01-23
+Car Phone Mount,Automotive,110.72,110.72,2,133,Not worth it,Grace G.,Yes,2022-01-12
+Power Bank 20000mAh,Electronics,80.52,80.52,5,413,Great product!,Jack I.,Yes,2022-01-15
+Play-Doh Mega Set,Toys,35.16,35.16,1,461,Poor quality,Rachel K.,No,2024-12-06
+Slim Fit Jeans,Clothing,28.34,28.34,5,109,Amazing quality,Olivia V.,Yes,2022-08-30
+Smart Watch X200,Electronics,31.58,31.58,5,64,Exceeded expectations,Diana I.,Yes,2024-11-30
+Formal Shirt White,Clothing,53.06,42.45,5,179,Great product!,Eve F.,Yes,2022-01-15
+Coffee Maker Drip,Home & Kitchen,99.98,77.49,4,486,Very satisfied,Iris D.,Yes,2024-02-08
+Running Jacket Lite,Clothing,12.87,11.98,5,47,Great product!,Alice T.,Yes,2023-02-25
+Knife Set Premium,Home & Kitchen,133.86,101.36,4,195,Great product!,Rachel Q.,Yes,2023-10-09
+Thinking Fast and Slow,Books,25.56,18.95,5,199,Highly recommend,Diana G.,Yes,2024-04-17
+Running Jacket Lite,Clothing,23.7,21.68,5,264,Love it!,Rachel L.,Yes,2024-01-12
+The Lean Startup,Books,17.46,13.59,4,28,Amazing quality,Rachel K.,Yes,2022-08-07
+Slim Fit Jeans,Clothing,64.87,50.89,5,251,Highly recommend,Iris E.,Yes,2022-11-13
+Non-Stick Pan Set,Home & Kitchen,84.34,84.34,5,479,Best purchase ever,Jack S.,Yes,2024-05-22
+Power Bank 20000mAh,Electronics,60.59,59.61,3,39,Does the job,Hank F.,Yes,2023-06-04
+Play-Doh Mega Set,Toys,58.5,54.25,2,54,Not as advertised,Charlie J.,Yes,2023-06-20
+Python for Beginners,Books,36.44,36.44,3,710,As described,Tina K.,Yes,2024-05-17
+Toaster Oven Digital,Home & Kitchen,148.78,148.3,1,39,Disappointed,Rachel O.,Yes,2024-01-19
+Air Fryer 5L,Home & Kitchen,38.15,36.61,2,385,Would not recommend,Bob E.,Yes,2023-07-19
+Toaster Oven Digital,Home & Kitchen,75.7,75.7,5,135,Exceeded expectations,Alice P.,Yes,2024-03-24
+Yoga Pants Flex,Clothing,58.3,44.48,2,56,Not worth it,Bob D.,Yes,2023-02-22
+USB-C Hub 7-in-1,Electronics,191.57,191.57,4,409,Highly recommend,Mia B.,Yes,2024-04-26
+Toaster Oven Digital,Home & Kitchen,22.17,19.19,5,117,Highly recommend,Charlie N.,Yes,2024-09-15
+Slim Fit Jeans,Clothing,10.97,10.36,1,144,Broke quickly,Mia F.,Yes,2023-01-02
+Yoga Pants Flex,Clothing,12.79,12.79,5,89,Amazing quality,Tina S.,Yes,2024-01-29
+Dumbbell Set Adjustable,Sports,114.74,114.74,4,179,Very satisfied,Olivia T.,Yes,2024-09-17
+Air Fryer 5L,Home & Kitchen,86.85,71.97,3,35,Decent product,Leo J.,Yes,2023-06-04
+Yoga Pants Flex,Clothing,60.37,49.82,5,99,Worth every penny,Karen G.,No,2023-09-21
+Slim Fit Jeans,Clothing,40.14,38.37,5,697,Highly recommend,Rachel C.,No,2023-12-07
+Yoga Pants Flex,Clothing,16.76,16.76,5,59,Love it!,Olivia S.,Yes,2024-03-26
+Running Jacket Lite,Clothing,47.64,47.64,5,213,Love it!,Eve C.,Yes,2022-10-10
+Running Jacket Lite,Clothing,29.91,23.68,5,78,Best purchase ever,Olivia D.,Yes,2022-09-01
+Wireless Earbuds Pro,Electronics,29.62,25.18,4,296,Worth every penny,Olivia J.,Yes,2023-04-16
+Formal Shirt White,Clothing,78.2,63.06,3,28,Average quality,Olivia P.,Yes,2024-07-03
+Magnetic Tiles 60pc,Toys,53.4,53.4,5,700,Worth every penny,Hank H.,Yes,2022-11-28
+Instant Pot 6Qt,Home & Kitchen,97.23,90.01,5,120,Exceeded expectations,Eve T.,Yes,2022-07-25
+Shampoo Argan Oil,Beauty,42.46,38.52,5,53,Highly recommend,Iris L.,Yes,2023-03-16
+Water Filter Pitcher,Home & Kitchen,60.81,60.81,4,15,Exceeded expectations,Mia F.,Yes,2024-11-07
+Cotton T-Shirt Classic,Clothing,61.1,53.17,4,37,Worth every penny,Karen Z.,Yes,2024-03-31
+Data Science Handbook,Books,9.85,9.85,5,146,Amazing quality,Karen O.,Yes,2023-11-25
+Wireless Earbuds Pro,Electronics,186.06,186.06,4,82,Very satisfied,Paul A.,No,2022-04-17
+Formal Shirt White,Clothing,42.73,42.66,5,353,Best purchase ever,Charlie P.,Yes,2022-11-26
+Casual Hoodie,Clothing,14.84,13.95,5,112,Amazing quality,Diana L.,Yes,2024-03-07
+Machine Learning Guide,Books,32.72,28.54,4,57,Great product!,Paul O.,Yes,2022-01-11
+Toaster Oven Digital,Home & Kitchen,42.83,42.83,5,192,Very satisfied,Frank J.,Yes,2022-07-06
+Data Science Handbook,Books,31.64,31.64,5,245,Love it!,Leo T.,Yes,2022-10-25
+Formal Shirt White,Clothing,11.28,8.11,3,36,As described,Steve E.,Yes,2024-08-23
+USB-C Hub 7-in-1,Electronics,192.3,192.3,5,36,Highly recommend,Quinn D.,Yes,2024-06-10
+Atomic Habits,Books,25.54,20.4,5,7,Love it!,Mia W.,Yes,2022-06-30
+Vitamin C Serum,Beauty,19.75,17.61,5,266,Best purchase ever,Diana K.,Yes,2022-05-12
+Yoga Mat Extra Thick,Sports,22.71,22.71,4,218,Very satisfied,Rachel U.,Yes,2023-06-23
+USB-C Hub 7-in-1,Electronics,150.59,150.59,5,128,Worth every penny,Charlie Z.,Yes,2023-03-31
+Webcam 1080p HD,Electronics,157.71,118.8,4,371,Amazing quality,Jack R.,Yes,2024-01-30
+Thinking Fast and Slow,Books,19.21,16.92,1,327,Not worth it,Olivia M.,Yes,2022-06-13
+Coffee Maker Drip,Home & Kitchen,55.36,55.36,5,176,Love it!,Steve N.,No,2022-03-19
+Slim Fit Jeans,Clothing,29.4,29.4,2,405,Would not recommend,Hank T.,Yes,2024-02-27
+Water Bottle Insulated,Sports,78.77,64.26,4,46,Love it!,Hank R.,Yes,2024-03-31
+Yoga Mat Extra Thick,Sports,59.47,59.47,5,23,Amazing quality,Frank P.,Yes,2024-12-03
+Non-Stick Pan Set,Home & Kitchen,28.2,28.2,5,62,Great product!,Mia C.,Yes,2023-08-10
+Bluetooth Speaker Mini,Electronics,45.87,38.37,5,11,Great product!,Karen G.,Yes,2022-04-28
+Laptop Stand Adjustable,Electronics,62.2,62.2,5,151,Great product!,Steve N.,Yes,2022-12-25
+Webcam 1080p HD,Electronics,181.43,181.43,4,551,Worth every penny,Nick S.,No,2024-10-09
+Wireless Earbuds Pro,Electronics,148.71,148.71,4,8,Amazing quality,Karen R.,Yes,2024-06-18
+Deep Work,Books,31.7,25.91,4,26,Best purchase ever,Hank F.,Yes,2022-01-22
+Dumbbell Set Adjustable,Sports,12.93,9.55,5,120,Amazing quality,Charlie X.,Yes,2023-02-18
+Webcam 1080p HD,Electronics,60.73,56.05,5,543,Love it!,Steve P.,Yes,2024-11-27
+Running Jacket Lite,Clothing,35.48,35.48,5,76,Highly recommend,Diana S.,Yes,2023-08-09
+Coffee Maker Drip,Home & Kitchen,43.26,32.96,5,141,Worth every penny,Tina O.,Yes,2023-02-03
+Mechanical Keyboard RGB,Electronics,118.27,93.78,2,8,Would not recommend,Karen R.,Yes,2022-03-10
+Coffee Maker Drip,Home & Kitchen,116.78,105.04,4,32,Best purchase ever,Diana O.,Yes,2024-11-11
+Python for Beginners,Books,15.18,15.18,2,862,Disappointed,Frank J.,Yes,2024-11-22
+Webcam 1080p HD,Electronics,93.0,73.76,5,671,Best purchase ever,Mia C.,No,2023-04-20
+Water Filter Pitcher,Home & Kitchen,61.59,61.59,4,1,Amazing quality,Tina D.,Yes,2022-12-14
+Wireless Earbuds Pro,Electronics,120.73,101.13,5,606,Amazing quality,Tina Y.,No,2022-03-15
+Gym Gloves Grip,Sports,64.23,64.23,4,203,Highly recommend,Mia K.,Yes,2024-01-07
+Pull Up Bar Door,Sports,29.08,24.24,3,404,Good for the price,Paul U.,No,2023-05-05
+Laptop Stand Adjustable,Electronics,197.05,173.69,3,121,Does the job,Bob C.,Yes,2022-01-01
+Cotton T-Shirt Classic,Clothing,15.31,15.31,5,144,Worth every penny,Grace E.,Yes,2022-11-19
+Mechanical Keyboard RGB,Electronics,175.71,175.71,5,134,Exceeded expectations,Steve Y.,No,2022-06-27
+Remote Control Car,Toys,37.17,31.49,3,219,Average quality,Alice Y.,Yes,2023-07-20
+Deep Work,Books,23.11,16.45,2,30,Not as advertised,Eve V.,No,2024-03-29
+USB-C Hub 7-in-1,Electronics,53.11,53.11,5,6,Love it!,Eve O.,Yes,2023-12-25
+Smart Watch X200,Electronics,161.12,157.2,2,73,Not as advertised,Rachel J.,Yes,2024-03-20
+Pull Up Bar Door,Sports,78.23,78.23,5,243,Best purchase ever,Mia T.,Yes,2024-04-10
+Machine Learning Guide,Books,20.27,19.01,5,45,Great product!,Steve O.,Yes,2023-02-15
+Yoga Mat Extra Thick,Sports,119.75,119.75,2,223,Poor quality,Grace G.,Yes,2024-11-26
+Blender High Speed,Home & Kitchen,116.21,110.98,2,700,Disappointed,Karen J.,Yes,2022-02-01
+Tire Pressure Gauge,Automotive,139.28,105.0,5,19,Very satisfied,Steve Z.,Yes,2022-05-21
+Machine Learning Guide,Books,13.31,11.04,4,223,Very satisfied,Jack N.,Yes,2022-07-04
+Magnetic Tiles 60pc,Toys,12.9,12.9,4,117,Best purchase ever,Leo C.,Yes,2023-08-06
+Shampoo Argan Oil,Beauty,25.04,22.78,5,405,Love it!,Steve A.,Yes,2023-12-14
+Instant Pot 6Qt,Home & Kitchen,134.53,134.53,5,38,Best purchase ever,Tina Q.,Yes,2023-12-13
+Instant Pot 6Qt,Home & Kitchen,21.18,15.1,5,235,Highly recommend,Mia E.,Yes,2023-07-21
+Data Science Handbook,Books,21.03,15.72,5,364,Exceeded expectations,Jack B.,Yes,2023-04-09
+Water Bottle Insulated,Sports,89.45,77.05,4,578,Amazing quality,Leo R.,Yes,2023-02-03
+Python for Beginners,Books,14.57,10.49,2,229,Broke quickly,Bob A.,Yes,2024-07-20
+Lip Balm Natural,Beauty,28.09,27.27,5,137,Highly recommend,Rachel L.,Yes,2024-04-07
+Non-Stick Pan Set,Home & Kitchen,146.43,120.57,5,192,Love it!,Diana J.,No,2022-01-10
+Python for Beginners,Books,30.77,22.66,4,406,Best purchase ever,Alice H.,Yes,2023-06-19
+Casual Hoodie,Clothing,13.07,13.07,5,169,Love it!,Nick W.,Yes,2022-12-25
+Wireless Earbuds Pro,Electronics,181.99,154.93,3,6,Average quality,Steve M.,Yes,2024-04-13
+Blender High Speed,Home & Kitchen,74.19,61.06,4,534,Great product!,Karen W.,Yes,2024-11-02
+Foam Roller Deep,Sports,60.34,60.34,1,233,Disappointed,Mia M.,Yes,2022-08-07
+The Lean Startup,Books,10.72,10.72,4,225,Exceeded expectations,Mia N.,Yes,2022-05-29
+Water Filter Pitcher,Home & Kitchen,86.7,86.7,2,48,Not as advertised,Rachel G.,Yes,2024-10-27
+Formal Shirt White,Clothing,67.4,67.4,3,215,Average quality,Frank P.,Yes,2023-08-26
+Wireless Earbuds Pro,Electronics,124.5,112.38,3,100,As described,Eve G.,No,2023-11-28
+Casual Hoodie,Clothing,40.45,32.49,5,210,Exceeded expectations,Rachel M.,No,2022-08-28
+Formal Shirt White,Clothing,27.06,27.06,5,22,Great product!,Leo N.,Yes,2024-11-17
+Yoga Pants Flex,Clothing,70.05,70.05,5,214,Best purchase ever,Eve J.,Yes,2023-06-12
+Python for Beginners,Books,31.41,31.41,5,1488,Worth every penny,Eve E.,Yes,2023-05-28
+Mechanical Keyboard RGB,Electronics,75.85,75.85,4,9,Amazing quality,Alice C.,Yes,2024-06-25
+Laptop Stand Adjustable,Electronics,65.31,48.39,4,755,Love it!,Alice E.,Yes,2024-02-12
+Coffee Maker Drip,Home & Kitchen,142.66,119.73,5,104,Highly recommend,Paul V.,Yes,2024-09-17
+Blender High Speed,Home & Kitchen,122.38,88.7,4,409,Highly recommend,Nick E.,Yes,2023-05-14
+Webcam 1080p HD,Electronics,35.16,32.14,5,305,Exceeded expectations,Charlie E.,Yes,2023-11-27
+Winter Coat Warm,Clothing,22.0,18.51,1,167,Not worth it,Nick O.,Yes,2024-07-28
+Thinking Fast and Slow,Books,18.05,18.05,5,268,Exceeded expectations,Tina N.,No,2024-08-01
+Winter Coat Warm,Clothing,47.51,47.51,2,421,Broke quickly,Tina F.,No,2022-02-26
+Mechanical Keyboard RGB,Electronics,99.09,87.41,5,103,Best purchase ever,Olivia Q.,Yes,2024-09-14
+Running Jacket Lite,Clothing,28.55,28.55,5,79,Love it!,Nick R.,Yes,2022-08-27
+Shampoo Argan Oil,Beauty,10.96,10.96,5,220,Very satisfied,Olivia M.,No,2023-06-13
+Thinking Fast and Slow,Books,18.72,14.05,2,329,Would not recommend,Leo H.,Yes,2022-05-19
+Blender High Speed,Home & Kitchen,110.59,77.78,5,287,Exceeded expectations,Frank N.,Yes,2024-02-23
+Lip Balm Natural,Beauty,17.32,17.32,5,319,Amazing quality,Tina A.,Yes,2023-03-28
+Resistance Bands Set,Sports,25.6,19.29,5,114,Exceeded expectations,Steve P.,Yes,2023-04-16
+Winter Coat Warm,Clothing,27.87,26.97,5,340,Love it!,Hank W.,Yes,2023-10-09
+Smart Watch X200,Electronics,88.31,73.53,5,25,Amazing quality,Quinn I.,No,2024-04-24
+Winter Coat Warm,Clothing,57.89,57.89,4,157,Worth every penny,Nick R.,No,2023-12-25
+Jump Rope Speed,Sports,99.85,85.56,5,1,Highly recommend,Steve L.,Yes,2024-11-23
+Lip Balm Natural,Beauty,7.2,6.47,5,78,Best purchase ever,Bob B.,Yes,2022-01-20
+Play-Doh Mega Set,Toys,79.36,79.36,5,91,Love it!,Steve P.,No,2023-06-24
+Slim Fit Jeans,Clothing,62.37,51.97,2,100,Not worth it,Leo D.,Yes,2023-05-24
+Coffee Maker Drip,Home & Kitchen,32.31,23.09,4,237,Best purchase ever,Steve P.,No,2023-08-12
+Deep Work,Books,33.72,33.72,5,98,Best purchase ever,Charlie E.,Yes,2022-07-10
+Knife Set Premium,Home & Kitchen,35.79,35.79,5,119,Worth every penny,Quinn Y.,Yes,2024-03-28
+Laptop Stand Adjustable,Electronics,168.62,168.62,4,54,Great product!,Iris O.,Yes,2023-12-02
+Power Bank 20000mAh,Electronics,39.67,30.15,5,93,Great product!,Quinn C.,Yes,2022-06-05
+Winter Coat Warm,Clothing,37.05,37.05,4,51,Worth every penny,Quinn T.,Yes,2023-01-01
+Bluetooth Speaker Mini,Electronics,188.45,188.45,3,15,Decent product,Charlie H.,Yes,2024-09-02
+Sports Socks Pack,Clothing,51.25,51.25,4,184,Very satisfied,Paul U.,Yes,2023-10-05
+Blender High Speed,Home & Kitchen,139.27,125.9,4,220,Worth every penny,Charlie V.,Yes,2023-12-26
+Sports Socks Pack,Clothing,11.53,11.53,5,193,Amazing quality,Rachel Z.,Yes,2023-03-24
+Wireless Earbuds Pro,Electronics,52.57,38.32,2,124,Not as advertised,Steve J.,No,2023-07-06
+Deep Work,Books,22.19,19.95,5,95,Exceeded expectations,Tina B.,No,2023-01-10
+Webcam 1080p HD,Electronics,32.51,23.19,5,398,Great product!,Karen R.,Yes,2023-01-25
+Knife Set Premium,Home & Kitchen,36.42,34.41,5,146,Best purchase ever,Alice P.,Yes,2024-10-18
+Wireless Earbuds Pro,Electronics,25.36,25.36,5,130,Best purchase ever,Olivia Q.,Yes,2023-02-13
+Slim Fit Jeans,Clothing,41.31,36.66,4,5,Amazing quality,Paul S.,Yes,2023-04-26
+The Lean Startup,Books,20.64,16.89,5,83,Exceeded expectations,Karen N.,No,2023-05-11
+Mechanical Keyboard RGB,Electronics,86.29,66.42,5,95,Highly recommend,Leo Z.,Yes,2023-06-28
+Instant Pot 6Qt,Home & Kitchen,42.46,42.46,3,101,Does the job,Jack J.,Yes,2023-02-28
+Wireless Earbuds Pro,Electronics,183.53,183.53,5,173,Exceeded expectations,Frank B.,No,2023-04-15
+Machine Learning Guide,Books,16.96,16.96,5,152,Highly recommend,Tina X.,Yes,2023-02-20
+Power Bank 20000mAh,Electronics,22.4,15.76,5,187,Great product!,Jack X.,Yes,2023-05-27
+Cotton T-Shirt Classic,Clothing,54.18,54.18,5,289,Best purchase ever,Steve I.,No,2023-12-31
+Bluetooth Speaker Mini,Electronics,70.08,70.08,5,335,Very satisfied,Bob U.,Yes,2022-11-16
+Slim Fit Jeans,Clothing,72.28,56.63,4,253,Very satisfied,Paul S.,No,2022-08-07
+Dumbbell Set Adjustable,Sports,15.32,10.93,5,622,Highly recommend,Frank S.,Yes,2022-09-03
+Yoga Pants Flex,Clothing,37.3,30.71,5,3,Worth every penny,Bob V.,Yes,2022-06-10
+Pull Up Bar Door,Sports,31.33,26.63,2,43,Not as advertised,Jack Z.,Yes,2024-10-05
+Gym Gloves Grip,Sports,36.89,33.71,1,1,Not worth it,Tina A.,No,2022-01-14
+Cotton T-Shirt Classic,Clothing,66.13,64.59,4,208,Worth every penny,Jack P.,Yes,2022-03-28
+Bluetooth Speaker Mini,Electronics,160.14,124.2,5,456,Amazing quality,Charlie E.,Yes,2024-09-14
+Power Bank 20000mAh,Electronics,104.23,104.23,5,55,Amazing quality,Quinn C.,Yes,2024-01-31
+Deep Work,Books,20.0,20.0,3,523,As described,Iris I.,Yes,2023-10-08
+Tire Pressure Gauge,Automotive,95.9,78.31,5,12,Very satisfied,Eve T.,Yes,2024-10-05
+Sports Socks Pack,Clothing,28.93,26.95,4,544,Best purchase ever,Iris I.,Yes,2023-07-17
+Coffee Maker Drip,Home & Kitchen,61.45,61.45,5,86,Exceeded expectations,Iris A.,Yes,2024-10-02
+Jump Rope Speed,Sports,11.77,11.77,5,21,Best purchase ever,Diana T.,Yes,2023-01-10
+Blender High Speed,Home & Kitchen,28.11,25.48,5,133,Worth every penny,Frank S.,Yes,2024-11-12
+Gym Gloves Grip,Sports,68.29,61.45,4,59,Worth every penny,Eve V.,Yes,2023-07-28
+Play-Doh Mega Set,Toys,89.97,89.97,4,67,Amazing quality,Olivia L.,Yes,2024-03-25
+Laptop Stand Adjustable,Electronics,34.51,34.51,4,73,Worth every penny,Frank I.,No,2023-03-31
+USB-C Hub 7-in-1,Electronics,60.6,50.58,2,324,Would not recommend,Hank P.,Yes,2022-09-20
+Smart Watch X200,Electronics,167.0,154.06,5,154,Exceeded expectations,Frank Z.,No,2022-04-21
+Wireless Earbuds Pro,Electronics,25.34,23.09,5,74,Best purchase ever,Quinn B.,Yes,2024-12-12
+Instant Pot 6Qt,Home & Kitchen,95.33,95.33,5,188,Exceeded expectations,Karen C.,Yes,2024-05-16
+Thinking Fast and Slow,Books,19.35,19.35,5,251,Great product!,Eve T.,Yes,2024-09-06
+Webcam 1080p HD,Electronics,48.57,35.81,5,63,Amazing quality,Eve P.,Yes,2022-03-08
+Coffee Maker Drip,Home & Kitchen,62.33,62.33,5,106,Amazing quality,Nick Y.,Yes,2024-10-26
+Foam Roller Deep,Sports,87.12,67.35,5,25,Worth every penny,Mia H.,Yes,2023-12-13
+Laptop Stand Adjustable,Electronics,21.21,21.21,5,39,Very satisfied,Olivia X.,Yes,2024-03-17
+Water Filter Pitcher,Home & Kitchen,66.71,66.71,4,228,Worth every penny,Frank G.,Yes,2022-12-24
+Non-Stick Pan Set,Home & Kitchen,94.26,71.69,4,40,Love it!,Steve X.,Yes,2024-07-25
+Laptop Stand Adjustable,Electronics,190.94,190.94,3,148,Okay product,Leo B.,Yes,2022-09-04
+Water Bottle Insulated,Sports,68.72,53.01,5,246,Very satisfied,Iris Y.,Yes,2024-11-27
+Board Game Family,Toys,49.23,49.06,5,22,Highly recommend,Diana B.,Yes,2024-07-31
+Smart Watch X200,Electronics,26.38,25.41,4,167,Great product!,Frank O.,Yes,2023-10-09
+Bluetooth Speaker Mini,Electronics,56.47,56.47,5,59,Very satisfied,Mia P.,Yes,2022-01-18
+Slim Fit Jeans,Clothing,43.95,43.95,5,658,Exceeded expectations,Jack P.,Yes,2022-01-25
+Water Filter Pitcher,Home & Kitchen,139.33,99.19,4,132,Love it!,Rachel H.,Yes,2023-03-08
+Puzzle 1000pc Nature,Toys,75.01,61.84,3,327,As described,Mia V.,Yes,2024-02-17
+Sports Socks Pack,Clothing,60.68,56.14,5,159,Best purchase ever,Mia P.,Yes,2022-07-26
+Coffee Maker Drip,Home & Kitchen,27.74,27.74,5,8,Worth every penny,Iris E.,Yes,2023-10-29
+Mechanical Keyboard RGB,Electronics,123.52,99.16,5,200,Best purchase ever,Quinn N.,Yes,2024-01-11
+Blender High Speed,Home & Kitchen,121.66,121.66,5,604,Best purchase ever,Alice J.,Yes,2023-06-16
+Coffee Maker Drip,Home & Kitchen,131.89,131.89,5,184,Amazing quality,Olivia M.,Yes,2023-01-19
+Laptop Stand Adjustable,Electronics,85.1,84.8,5,342,Highly recommend,Karen Q.,Yes,2023-06-23
+Foam Roller Deep,Sports,52.31,47.54,5,431,Highly recommend,Bob D.,No,2023-05-01
+Hair Dryer Ionic,Beauty,24.0,24.0,5,51,Great product!,Rachel U.,Yes,2023-07-06
+Instant Pot 6Qt,Home & Kitchen,37.74,32.32,4,47,Great product!,Leo N.,No,2024-08-23
+Mechanical Keyboard RGB,Electronics,150.98,150.98,3,188,Does the job,Tina U.,Yes,2023-12-04
+Car Vacuum Mini,Automotive,145.1,104.38,1,105,Not worth it,Iris K.,Yes,2024-01-20
+Resistance Bands Set,Sports,80.71,79.59,5,366,Very satisfied,Iris I.,Yes,2023-01-12
+Casual Hoodie,Clothing,60.49,60.49,5,460,Love it!,Diana I.,Yes,2024-10-18
+Running Jacket Lite,Clothing,59.54,58.44,5,87,Great product!,Steve M.,Yes,2024-05-18
+Casual Hoodie,Clothing,65.09,65.09,4,54,Great product!,Olivia Y.,Yes,2023-03-08
+Thinking Fast and Slow,Books,29.3,29.3,3,303,Does the job,Hank X.,Yes,2024-05-08
+Cotton T-Shirt Classic,Clothing,37.48,35.18,1,64,Broke quickly,Steve Y.,Yes,2024-02-02
+Pull Up Bar Door,Sports,85.11,85.11,4,345,Best purchase ever,Grace Q.,Yes,2024-01-18
+Pull Up Bar Door,Sports,27.9,23.1,5,110,Amazing quality,Karen V.,Yes,2024-03-31
+Power Bank 20000mAh,Electronics,191.52,143.5,4,220,Best purchase ever,Frank K.,Yes,2023-07-27
+Puzzle 1000pc Nature,Toys,42.32,42.32,4,20,Love it!,Rachel A.,Yes,2024-07-12
+Coffee Maker Drip,Home & Kitchen,25.2,22.22,5,195,Exceeded expectations,Alice C.,Yes,2023-01-04
+Resistance Bands Set,Sports,44.63,44.63,4,120,Great product!,Alice N.,No,2022-09-26
+Knife Set Premium,Home & Kitchen,49.71,49.23,5,176,Exceeded expectations,Diana Q.,Yes,2023-04-14
+Winter Coat Warm,Clothing,17.78,17.78,5,36,Amazing quality,Diana V.,No,2022-07-24
+Water Filter Pitcher,Home & Kitchen,39.27,33.16,4,267,Exceeded expectations,Olivia L.,Yes,2023-07-07
+Science Kit Kids,Toys,16.71,13.5,5,397,Very satisfied,Hank X.,Yes,2023-04-28
+Winter Coat Warm,Clothing,78.77,78.77,5,48,Love it!,Jack I.,Yes,2024-06-04
+Resistance Bands Set,Sports,79.25,65.52,5,20,Very satisfied,Grace B.,Yes,2024-02-20
+Machine Learning Guide,Books,35.28,29.28,3,4,Good for the price,Alice T.,No,2023-02-06
+Deep Work,Books,28.94,28.94,5,205,Highly recommend,Charlie B.,Yes,2022-10-26
+Slim Fit Jeans,Clothing,41.75,35.26,4,186,Love it!,Tina V.,Yes,2022-11-03
+Water Filter Pitcher,Home & Kitchen,48.25,39.96,4,158,Best purchase ever,Grace T.,Yes,2024-08-26
+Sports Socks Pack,Clothing,15.24,15.24,4,52,Exceeded expectations,Diana W.,Yes,2022-01-20
+Eye Cream Anti-Age,Beauty,49.28,38.93,5,99,Amazing quality,Diana C.,No,2022-12-28
+Jump Rope Speed,Sports,8.63,7.47,4,180,Highly recommend,Tina E.,Yes,2024-05-13
+Bluetooth Speaker Mini,Electronics,96.56,96.56,4,137,Love it!,Mia V.,Yes,2024-10-20
+Hair Dryer Ionic,Beauty,58.79,58.79,5,881,Great product!,Steve Z.,Yes,2022-10-03
+Webcam 1080p HD,Electronics,106.71,106.71,4,29,Exceeded expectations,Frank D.,Yes,2024-11-24
+Python for Beginners,Books,19.73,19.73,2,237,Would not recommend,Frank I.,Yes,2024-12-29
+Coffee Maker Drip,Home & Kitchen,33.68,28.43,3,103,Does the job,Jack O.,Yes,2023-10-09
+Running Jacket Lite,Clothing,66.2,66.2,3,111,As described,Charlie U.,Yes,2024-09-23
+Laptop Stand Adjustable,Electronics,136.42,103.5,3,252,Does the job,Olivia I.,Yes,2023-09-07
+Hair Dryer Ionic,Beauty,17.9,12.55,3,235,Average quality,Nick W.,Yes,2023-05-29
+Bluetooth Speaker Mini,Electronics,28.64,26.32,5,947,Amazing quality,Karen I.,Yes,2022-04-08
+Mechanical Keyboard RGB,Electronics,70.05,70.05,3,27,Does the job,Frank Y.,Yes,2024-03-26
+Dumbbell Set Adjustable,Sports,37.25,30.72,4,21,Amazing quality,Charlie I.,Yes,2022-07-22
+Yoga Pants Flex,Clothing,15.19,15.19,5,257,Love it!,Bob M.,Yes,2022-12-01
+Lip Balm Natural,Beauty,53.84,43.89,4,172,Best purchase ever,Mia K.,Yes,2022-05-03
+Coffee Maker Drip,Home & Kitchen,116.15,116.15,5,64,Exceeded expectations,Bob I.,Yes,2023-03-18
+Formal Shirt White,Clothing,75.93,54.77,3,16,Does the job,Iris F.,Yes,2023-06-05
+USB-C Hub 7-in-1,Electronics,78.51,78.33,3,17,As described,Olivia C.,Yes,2024-09-02
+Stuffed Animal Bear,Toys,82.45,82.45,2,449,Would not recommend,Paul G.,Yes,2022-07-17
+Bluetooth Speaker Mini,Electronics,21.72,16.26,3,42,Good for the price,Tina M.,Yes,2024-07-10
+Knife Set Premium,Home & Kitchen,41.94,41.4,4,78,Very satisfied,Frank U.,Yes,2023-11-17
+Data Science Handbook,Books,13.03,12.06,3,51,Decent product,Paul D.,Yes,2023-06-17
+Jump Rope Speed,Sports,45.08,45.08,2,87,Not worth it,Eve R.,Yes,2024-01-10
+Instant Pot 6Qt,Home & Kitchen,74.2,66.07,3,14,Good for the price,Nick G.,Yes,2024-01-08
+Instant Pot 6Qt,Home & Kitchen,114.85,114.85,4,146,Great product!,Tina U.,Yes,2023-06-12
+Deep Work,Books,26.27,26.27,4,14,Worth every penny,Diana O.,Yes,2023-12-06
+Yoga Mat Extra Thick,Sports,39.53,39.53,4,322,Exceeded expectations,Iris D.,Yes,2022-02-10
+Wireless Earbuds Pro,Electronics,33.23,25.72,5,53,Great product!,Bob C.,Yes,2024-04-23
+Smart Watch X200,Electronics,121.27,118.41,5,155,Very satisfied,Charlie S.,Yes,2022-09-06
+Air Fryer 5L,Home & Kitchen,40.46,40.46,1,424,Poor quality,Iris Y.,Yes,2023-12-21
+Formal Shirt White,Clothing,10.27,7.28,5,210,Exceeded expectations,Olivia A.,Yes,2023-02-12
+Clean Code,Books,18.42,13.71,5,152,Very satisfied,Paul E.,Yes,2022-12-24
+The Lean Startup,Books,28.49,28.01,2,78,Would not recommend,Alice B.,Yes,2023-08-06
+Python for Beginners,Books,14.39,14.39,5,80,Highly recommend,Mia I.,Yes,2023-12-29
+Sports Socks Pack,Clothing,25.48,25.48,5,221,Very satisfied,Eve W.,Yes,2023-10-28
+Knife Set Premium,Home & Kitchen,57.94,52.08,2,1027,Disappointed,Karen M.,Yes,2024-11-11
+Formal Shirt White,Clothing,43.15,43.15,4,216,Very satisfied,Steve A.,Yes,2024-09-25
+Water Filter Pitcher,Home & Kitchen,60.58,60.58,5,163,Love it!,Quinn W.,Yes,2024-07-04
+Casual Hoodie,Clothing,43.96,43.96,5,262,Very satisfied,Paul P.,Yes,2022-06-10
+Winter Coat Warm,Clothing,29.54,24.08,3,125,Average quality,Nick M.,Yes,2024-02-20
+Laptop Stand Adjustable,Electronics,115.66,114.76,4,12,Very satisfied,Charlie R.,No,2023-08-10
+Power Bank 20000mAh,Electronics,84.13,84.13,4,165,Highly recommend,Hank A.,Yes,2024-08-07
+Smart Watch X200,Electronics,83.83,80.71,4,632,Exceeded expectations,Mia W.,No,2022-10-24
+Python for Beginners,Books,9.92,9.92,5,38,Highly recommend,Paul D.,Yes,2022-12-10
+Jump Rope Speed,Sports,60.09,54.53,4,234,Love it!,Steve R.,No,2023-11-22
+Power Bank 20000mAh,Electronics,170.85,146.92,4,44,Highly recommend,Leo K.,Yes,2024-05-13
+Webcam 1080p HD,Electronics,27.39,23.99,5,153,Worth every penny,Jack M.,Yes,2024-04-08
+Thinking Fast and Slow,Books,29.36,27.18,1,20,Poor quality,Bob U.,Yes,2022-05-27
+Water Filter Pitcher,Home & Kitchen,107.85,103.63,4,119,Exceeded expectations,Charlie L.,Yes,2022-06-12
+Car Vacuum Mini,Automotive,81.37,81.37,5,282,Exceeded expectations,Rachel K.,Yes,2022-11-28
+Deep Work,Books,15.28,14.35,5,85,Amazing quality,Charlie O.,Yes,2023-12-05
+Running Jacket Lite,Clothing,69.85,54.53,5,218,Worth every penny,Jack U.,Yes,2023-04-13
+Mechanical Keyboard RGB,Electronics,93.44,93.44,5,317,Great product!,Grace F.,Yes,2023-10-05
+Mechanical Keyboard RGB,Electronics,142.6,129.72,3,523,Okay product,Rachel B.,Yes,2023-10-11
+Mechanical Keyboard RGB,Electronics,120.95,120.95,4,53,Exceeded expectations,Mia V.,Yes,2023-08-20
+Webcam 1080p HD,Electronics,103.11,103.11,5,101,Best purchase ever,Grace J.,No,2023-07-02
+Bluetooth Speaker Mini,Electronics,89.03,64.91,4,33,Highly recommend,Mia D.,Yes,2024-03-20
+Deep Work,Books,10.1,8.34,4,978,Worth every penny,Leo P.,No,2023-07-10
+Slim Fit Jeans,Clothing,74.02,58.22,4,523,Very satisfied,Charlie U.,Yes,2024-06-30
+Tire Pressure Gauge,Automotive,126.17,95.0,1,155,Not as advertised,Olivia X.,Yes,2024-01-14
+Clean Code,Books,13.21,13.21,4,369,Highly recommend,Grace E.,Yes,2024-12-02
+Water Filter Pitcher,Home & Kitchen,42.47,42.47,4,147,Love it!,Bob G.,Yes,2024-07-11
+Smart Watch X200,Electronics,194.85,165.78,4,195,Great product!,Alice X.,Yes,2024-04-27
+Lip Balm Natural,Beauty,12.43,12.43,3,18,Does the job,Steve H.,Yes,2022-12-09
+Thinking Fast and Slow,Books,11.5,8.78,5,281,Highly recommend,Paul M.,Yes,2023-01-12
+Makeup Brush Set,Beauty,29.94,29.94,5,27,Best purchase ever,Charlie Z.,No,2022-02-17
+Machine Learning Guide,Books,13.72,12.93,5,349,Love it!,Rachel U.,Yes,2022-09-14
+Data Science Handbook,Books,17.24,17.24,5,304,Highly recommend,Jack P.,Yes,2023-04-26
+Cotton T-Shirt Classic,Clothing,73.99,71.14,4,246,Love it!,Rachel Z.,Yes,2023-05-31
+Laptop Stand Adjustable,Electronics,32.09,31.25,2,7,Not worth it,Olivia A.,Yes,2022-06-13
+Webcam 1080p HD,Electronics,89.0,89.0,5,72,Great product!,Bob K.,Yes,2023-03-08
+Science Kit Kids,Toys,79.52,57.57,5,61,Highly recommend,Bob K.,Yes,2022-12-08
+Clean Code,Books,22.66,22.66,5,89,Very satisfied,Bob M.,Yes,2024-03-24
+Jump Rope Speed,Sports,97.08,97.08,4,18,Very satisfied,Diana G.,Yes,2022-07-30
+Yoga Pants Flex,Clothing,51.62,51.62,3,552,Average quality,Quinn O.,Yes,2022-07-15
+Mechanical Keyboard RGB,Electronics,35.82,35.82,4,161,Amazing quality,Rachel E.,Yes,2022-05-11
+Non-Stick Pan Set,Home & Kitchen,40.26,40.26,4,72,Great product!,Steve H.,No,2024-08-27
+Bluetooth Speaker Mini,Electronics,122.8,113.98,5,101,Love it!,Charlie B.,Yes,2022-04-21
+Power Bank 20000mAh,Electronics,187.1,187.1,5,118,Great product!,Eve P.,Yes,2022-02-23
+Thinking Fast and Slow,Books,33.44,33.44,4,183,Very satisfied,Alice P.,Yes,2024-03-24
+Sports Socks Pack,Clothing,71.21,64.06,5,145,Love it!,Tina B.,No,2024-12-09
+Seat Cushion Memory Foam,Automotive,159.73,113.82,5,503,Exceeded expectations,Hank W.,Yes,2022-06-20
+Power Bank 20000mAh,Electronics,86.35,86.35,4,137,Worth every penny,Eve A.,Yes,2022-08-01
+Yoga Mat Extra Thick,Sports,72.56,58.97,3,969,Decent product,Frank U.,Yes,2023-06-22
+Coffee Maker Drip,Home & Kitchen,25.36,25.07,3,381,As described,Bob J.,Yes,2022-11-15
+Gym Gloves Grip,Sports,54.12,54.12,4,46,Amazing quality,Diana O.,Yes,2022-06-22
+Power Bank 20000mAh,Electronics,128.59,119.21,3,533,Does the job,Tina F.,Yes,2024-03-09
+Clean Code,Books,21.35,17.1,3,24,Decent product,Steve C.,Yes,2023-09-26
+Clean Code,Books,36.96,29.68,4,340,Highly recommend,Diana D.,Yes,2023-04-15
+Yoga Pants Flex,Clothing,58.34,58.34,3,95,Okay product,Paul T.,Yes,2023-05-22
+Face Moisturizer SPF,Beauty,46.51,46.51,5,420,Best purchase ever,Tina H.,Yes,2023-08-05
+Car Phone Mount,Automotive,162.5,162.5,2,405,Disappointed,Charlie Z.,Yes,2024-06-26
+Formal Shirt White,Clothing,34.14,34.14,5,327,Best purchase ever,Grace N.,Yes,2022-09-16
+Water Filter Pitcher,Home & Kitchen,60.91,60.46,4,312,Amazing quality,Karen Z.,No,2022-09-26
+Water Filter Pitcher,Home & Kitchen,132.56,124.86,5,72,Exceeded expectations,Mia K.,Yes,2024-12-14
+Knife Set Premium,Home & Kitchen,32.77,32.77,3,16,Good for the price,Diana V.,Yes,2022-12-16
+LEGO City Set,Toys,21.74,17.84,4,103,Best purchase ever,Steve R.,Yes,2022-02-28
+Smart Watch X200,Electronics,97.47,95.28,5,38,Highly recommend,Eve K.,Yes,2022-03-13
+Webcam 1080p HD,Electronics,65.33,65.33,5,237,Great product!,Grace Y.,Yes,2024-01-01
+Instant Pot 6Qt,Home & Kitchen,98.65,98.65,5,84,Worth every penny,Bob S.,Yes,2023-10-29
+Laptop Stand Adjustable,Electronics,49.77,49.04,4,742,Exceeded expectations,Frank K.,Yes,2024-09-02
+Mechanical Keyboard RGB,Electronics,184.48,142.89,3,204,Average quality,Charlie D.,Yes,2024-08-14
+Webcam 1080p HD,Electronics,153.06,138.65,5,345,Best purchase ever,Iris E.,Yes,2023-07-12
+Mechanical Keyboard RGB,Electronics,175.43,149.9,5,28,Amazing quality,Nick F.,Yes,2024-06-30
+Python for Beginners,Books,24.49,17.17,5,396,Exceeded expectations,Leo R.,Yes,2022-10-04
+The Lean Startup,Books,11.09,10.9,5,512,Highly recommend,Frank O.,Yes,2022-12-29
+Cotton T-Shirt Classic,Clothing,45.48,45.48,4,133,Amazing quality,Hank S.,Yes,2024-07-24
+USB-C Hub 7-in-1,Electronics,160.39,154.3,5,186,Very satisfied,Bob E.,Yes,2024-06-09
+Blender High Speed,Home & Kitchen,134.31,123.67,3,289,Average quality,Diana Z.,Yes,2024-12-08
+Knife Set Premium,Home & Kitchen,42.59,32.8,4,38,Amazing quality,Tina M.,Yes,2024-12-29
+Data Science Handbook,Books,34.78,32.06,4,139,Exceeded expectations,Frank A.,Yes,2023-09-27
+Toaster Oven Digital,Home & Kitchen,24.3,19.55,5,101,Love it!,Paul C.,Yes,2023-12-13
+Magnetic Tiles 60pc,Toys,84.43,82.95,4,31,Highly recommend,Alice A.,Yes,2024-09-13
+Foam Roller Deep,Sports,30.79,27.63,3,91,Does the job,Frank C.,No,2023-04-11
+Coffee Maker Drip,Home & Kitchen,128.05,93.49,5,14,Worth every penny,Steve J.,Yes,2022-07-03
+Instant Pot 6Qt,Home & Kitchen,71.6,71.6,4,5,Very satisfied,Nick W.,Yes,2024-06-23
+Remote Control Car,Toys,64.49,58.92,5,29,Very satisfied,Paul W.,Yes,2023-09-23
+Winter Coat Warm,Clothing,37.06,35.68,3,659,Average quality,Eve G.,Yes,2024-01-20
+Deep Work,Books,22.77,20.83,4,159,Very satisfied,Eve U.,Yes,2024-04-24
+Blender High Speed,Home & Kitchen,96.78,96.78,5,675,Amazing quality,Iris Q.,Yes,2023-06-17
+Eye Cream Anti-Age,Beauty,24.42,17.73,2,113,Broke quickly,Olivia N.,No,2022-11-15
+Jump Rope Speed,Sports,92.87,92.77,4,74,Best purchase ever,Hank F.,Yes,2023-09-14
+USB-C Hub 7-in-1,Electronics,31.72,26.65,3,141,Decent product,Tina W.,Yes,2022-01-22
+Webcam 1080p HD,Electronics,86.51,85.34,2,115,Would not recommend,Bob T.,Yes,2022-01-01
+Cotton T-Shirt Classic,Clothing,69.77,60.16,5,22,Love it!,Frank W.,Yes,2024-12-07
+Air Fryer 5L,Home & Kitchen,132.41,132.41,4,204,Exceeded expectations,Paul T.,Yes,2022-10-07
+Python for Beginners,Books,15.2,15.2,5,48,Best purchase ever,Charlie U.,Yes,2023-12-06
+Running Jacket Lite,Clothing,29.33,26.69,4,193,Best purchase ever,Jack L.,Yes,2023-08-11
+Mechanical Keyboard RGB,Electronics,110.95,110.95,5,210,Highly recommend,Nick A.,Yes,2024-08-18
+Water Filter Pitcher,Home & Kitchen,21.16,15.0,5,32,Great product!,Rachel H.,Yes,2024-12-31
+Water Filter Pitcher,Home & Kitchen,105.15,83.9,5,12,Love it!,Grace D.,Yes,2022-01-18
+Puzzle 1000pc Nature,Toys,74.07,74.07,4,303,Very satisfied,Quinn D.,Yes,2024-10-04
+Machine Learning Guide,Books,16.57,16.57,4,123,Worth every penny,Tina L.,Yes,2024-09-04
+Deep Work,Books,31.8,28.61,4,11,Exceeded expectations,Rachel Q.,Yes,2023-09-06
+Mechanical Keyboard RGB,Electronics,134.4,121.12,5,1054,Very satisfied,Hank O.,Yes,2022-01-19
+Bluetooth Speaker Mini,Electronics,181.15,176.95,5,11,Highly recommend,Grace I.,Yes,2024-05-31
+Winter Coat Warm,Clothing,42.13,35.71,5,237,Amazing quality,Bob G.,No,2023-08-23
+Formal Shirt White,Clothing,43.66,34.92,3,823,Average quality,Diana Z.,Yes,2023-04-19
+Yoga Pants Flex,Clothing,47.43,47.43,5,54,Best purchase ever,Eve V.,Yes,2022-01-15
+Power Bank 20000mAh,Electronics,88.47,86.45,5,30,Highly recommend,Paul P.,No,2024-02-05
+Stuffed Animal Bear,Toys,11.58,11.58,3,25,Average quality,Frank F.,Yes,2023-01-22
+Water Bottle Insulated,Sports,116.74,116.74,2,72,Poor quality,Bob B.,Yes,2024-04-23
+Python for Beginners,Books,26.96,24.88,5,21,Exceeded expectations,Leo J.,Yes,2024-06-14
+Play-Doh Mega Set,Toys,59.21,53.06,5,235,Exceeded expectations,Grace N.,Yes,2024-03-19
+Tire Pressure Gauge,Automotive,126.84,125.56,5,12,Amazing quality,Iris K.,Yes,2023-05-27
+Coffee Maker Drip,Home & Kitchen,28.79,22.17,3,142,Good for the price,Tina Z.,Yes,2022-12-01
+Winter Coat Warm,Clothing,55.33,55.33,5,1142,Best purchase ever,Olivia B.,Yes,2024-03-09
+Laptop Stand Adjustable,Electronics,64.3,64.3,4,336,Amazing quality,Diana X.,Yes,2024-02-14
+Yoga Mat Extra Thick,Sports,115.64,115.64,3,191,Okay product,Bob R.,Yes,2023-03-28
+Thinking Fast and Slow,Books,17.56,17.56,3,73,Decent product,Frank F.,Yes,2023-06-23
+Knife Set Premium,Home & Kitchen,87.25,66.0,5,195,Highly recommend,Alice P.,Yes,2022-06-12
+Makeup Brush Set,Beauty,55.47,48.36,5,149,Great product!,Quinn D.,Yes,2024-05-14
+Wireless Earbuds Pro,Electronics,90.25,90.25,5,111,Highly recommend,Charlie H.,No,2023-05-06
+Thinking Fast and Slow,Books,30.77,30.77,4,28,Best purchase ever,Olivia S.,No,2024-11-24
+Instant Pot 6Qt,Home & Kitchen,23.8,23.8,5,435,Best purchase ever,Steve K.,Yes,2023-07-11
+The Lean Startup,Books,40.41,32.05,4,119,Highly recommend,Nick G.,No,2023-08-07
+Bluetooth Speaker Mini,Electronics,183.27,138.73,5,43,Very satisfied,Karen H.,Yes,2024-12-25
+Casual Hoodie,Clothing,37.18,37.18,4,91,Amazing quality,Diana K.,No,2023-07-05
+Cotton T-Shirt Classic,Clothing,51.8,48.25,4,106,Love it!,Hank D.,Yes,2024-04-25
+Coffee Maker Drip,Home & Kitchen,126.57,124.06,4,351,Amazing quality,Hank X.,Yes,2023-01-21
+Makeup Brush Set,Beauty,44.96,44.96,4,264,Highly recommend,Nick G.,Yes,2022-05-21
+Cotton T-Shirt Classic,Clothing,59.03,51.78,5,293,Great product!,Mia H.,Yes,2023-01-09
+Water Filter Pitcher,Home & Kitchen,123.03,123.03,5,2,Highly recommend,Charlie P.,Yes,2022-10-07
+Yoga Pants Flex,Clothing,35.58,35.58,4,107,Very satisfied,Steve P.,Yes,2023-08-17
+Science Kit Kids,Toys,78.62,62.49,5,131,Exceeded expectations,Bob N.,Yes,2022-08-15
+Jump Rope Speed,Sports,106.17,83.77,4,3,Exceeded expectations,Eve G.,Yes,2024-07-21
+The Lean Startup,Books,17.89,17.89,5,60,Best purchase ever,Tina O.,Yes,2024-07-16
+Clean Code,Books,12.58,9.36,5,285,Great product!,Frank M.,Yes,2023-07-12
+Winter Coat Warm,Clothing,61.75,61.75,5,29,Highly recommend,Leo E.,Yes,2024-10-04
+Sports Socks Pack,Clothing,63.4,60.53,3,153,Average quality,Olivia X.,Yes,2023-01-20
+Car Phone Mount,Automotive,171.47,121.8,5,48,Amazing quality,Grace U.,Yes,2023-10-19
+Running Jacket Lite,Clothing,55.81,55.81,5,2,Love it!,Leo I.,Yes,2022-02-09
+Clean Code,Books,20.36,18.46,4,55,Very satisfied,Grace K.,Yes,2022-11-08
+Tire Pressure Gauge,Automotive,158.63,158.63,3,744,As described,Eve B.,No,2022-04-12
+Water Filter Pitcher,Home & Kitchen,122.94,107.23,5,323,Very satisfied,Steve B.,Yes,2024-12-31
+The Lean Startup,Books,20.88,15.97,5,641,Amazing quality,Iris E.,Yes,2022-02-15
+Yoga Pants Flex,Clothing,30.58,30.58,5,133,Love it!,Diana O.,No,2023-01-16
+Bluetooth Speaker Mini,Electronics,103.04,73.95,5,23,Exceeded expectations,Olivia N.,Yes,2022-07-29
+Sports Socks Pack,Clothing,51.84,38.66,5,158,Worth every penny,Frank Y.,Yes,2023-08-01
+Pull Up Bar Door,Sports,15.98,15.25,3,121,Good for the price,Karen H.,Yes,2023-07-06
+Blender High Speed,Home & Kitchen,86.05,66.05,4,372,Highly recommend,Jack T.,Yes,2022-09-14
+Foam Roller Deep,Sports,51.24,50.06,4,20,Amazing quality,Frank Z.,Yes,2024-06-16
+Power Bank 20000mAh,Electronics,91.42,87.49,5,133,Highly recommend,Tina F.,Yes,2022-01-17
+Clean Code,Books,12.4,9.79,1,32,Would not recommend,Steve R.,Yes,2023-04-22
+Board Game Family,Toys,38.4,37.39,5,78,Great product!,Hank C.,No,2022-07-04
+Formal Shirt White,Clothing,72.99,72.99,5,267,Great product!,Nick Q.,Yes,2022-11-05
+Knife Set Premium,Home & Kitchen,39.61,39.61,5,129,Best purchase ever,Paul G.,Yes,2022-01-31
+USB-C Hub 7-in-1,Electronics,48.37,48.37,4,94,Highly recommend,Steve P.,Yes,2024-10-07
+Seat Cushion Memory Foam,Automotive,93.88,79.05,5,100,Great product!,Olivia I.,Yes,2023-03-21
+Knife Set Premium,Home & Kitchen,148.75,148.75,3,123,Good for the price,Alice X.,Yes,2023-12-02
+USB-C Hub 7-in-1,Electronics,132.38,132.38,5,307,Very satisfied,Nick X.,Yes,2024-05-10
+Power Bank 20000mAh,Electronics,98.63,98.63,3,445,Average quality,Hank H.,Yes,2023-10-01
+Deep Work,Books,32.36,25.39,4,621,Best purchase ever,Karen N.,Yes,2024-10-17
+Thinking Fast and Slow,Books,26.44,24.07,5,309,Very satisfied,Steve H.,Yes,2024-01-31
+Mechanical Keyboard RGB,Electronics,105.57,76.98,3,75,Does the job,Steve E.,Yes,2024-08-07
+Seat Cushion Memory Foam,Automotive,32.49,32.49,4,233,Love it!,Steve A.,Yes,2022-03-06
+Lip Balm Natural,Beauty,40.33,38.71,5,115,Best purchase ever,Nick B.,Yes,2023-11-08
+Data Science Handbook,Books,22.22,22.22,5,58,Amazing quality,Bob P.,Yes,2022-06-14
+Webcam 1080p HD,Electronics,85.91,67.97,5,367,Highly recommend,Quinn B.,Yes,2022-10-27
+Gym Gloves Grip,Sports,68.77,60.05,5,7,Exceeded expectations,Nick Q.,Yes,2022-04-25
+Deep Work,Books,19.94,16.84,5,464,Exceeded expectations,Mia P.,Yes,2023-06-30
+Instant Pot 6Qt,Home & Kitchen,136.95,104.48,4,123,Great product!,Diana O.,No,2024-03-14
+Atomic Habits,Books,15.09,11.45,4,202,Worth every penny,Paul H.,Yes,2022-05-27
+Cotton T-Shirt Classic,Clothing,11.28,9.12,3,215,Decent product,Charlie R.,No,2024-08-20
+Foam Roller Deep,Sports,36.86,26.93,5,450,Great product!,Alice W.,Yes,2023-01-07
+Dash Cam 4K,Automotive,159.58,152.8,5,202,Worth every penny,Nick G.,No,2023-01-29
+Mechanical Keyboard RGB,Electronics,39.34,39.34,4,190,Great product!,Eve L.,Yes,2023-05-28
+Thinking Fast and Slow,Books,24.6,22.23,4,13,Worth every penny,Jack H.,No,2024-02-21
+Formal Shirt White,Clothing,21.69,21.69,5,146,Very satisfied,Charlie A.,No,2022-01-26
+Magnetic Tiles 60pc,Toys,34.35,34.35,3,32,As described,Paul V.,Yes,2022-09-07
+Clean Code,Books,23.58,23.58,5,267,Exceeded expectations,Jack F.,No,2023-05-25
+Makeup Brush Set,Beauty,38.29,37.66,5,143,Worth every penny,Olivia S.,Yes,2024-02-28
+Lip Balm Natural,Beauty,29.84,29.84,5,228,Best purchase ever,Steve A.,Yes,2024-06-26
+Formal Shirt White,Clothing,80.17,64.26,1,8,Not as advertised,Olivia O.,Yes,2023-05-22
+Jump Rope Speed,Sports,120.06,89.39,5,17,Worth every penny,Eve W.,Yes,2022-03-10
+Slim Fit Jeans,Clothing,35.15,27.19,5,251,Highly recommend,Mia F.,Yes,2023-02-12
+Board Game Family,Toys,23.68,23.68,5,14,Amazing quality,Leo U.,Yes,2024-08-01
+Clean Code,Books,8.61,8.61,5,14,Very satisfied,Olivia W.,No,2022-07-12
+Yoga Mat Extra Thick,Sports,89.44,89.44,5,2,Exceeded expectations,Alice U.,Yes,2024-12-03
+Casual Hoodie,Clothing,24.78,18.63,5,627,Very satisfied,Charlie M.,Yes,2023-03-03
+Casual Hoodie,Clothing,51.28,47.83,3,267,Average quality,Karen Q.,No,2024-08-26
+Python for Beginners,Books,12.93,11.65,5,87,Great product!,Bob J.,No,2024-03-07
+Dash Cam 4K,Automotive,120.59,120.59,5,70,Highly recommend,Nick Y.,No,2023-10-02
+The Lean Startup,Books,21.0,19.85,4,86,Exceeded expectations,Iris W.,Yes,2023-10-24
+Mechanical Keyboard RGB,Electronics,63.31,63.31,5,298,Exceeded expectations,Tina R.,No,2022-11-21
+Thinking Fast and Slow,Books,28.93,24.11,5,216,Very satisfied,Steve Z.,Yes,2022-03-28
+Slim Fit Jeans,Clothing,80.62,80.62,5,40,Very satisfied,Grace Z.,Yes,2024-12-02
+Machine Learning Guide,Books,11.46,11.46,4,38,Very satisfied,Charlie T.,Yes,2022-09-08
+Python for Beginners,Books,9.54,9.54,3,20,Decent product,Karen X.,Yes,2023-06-03
+Machine Learning Guide,Books,21.83,21.23,5,215,Very satisfied,Bob Q.,Yes,2024-09-12
+Winter Coat Warm,Clothing,19.14,19.14,5,289,Worth every penny,Leo B.,Yes,2023-09-04
+Power Bank 20000mAh,Electronics,102.76,102.37,3,61,Good for the price,Diana M.,Yes,2023-02-11
+Water Filter Pitcher,Home & Kitchen,47.7,43.32,5,4,Amazing quality,Leo O.,Yes,2024-01-09
+Clean Code,Books,28.66,28.66,5,17,Best purchase ever,Tina B.,Yes,2022-04-17
+Laptop Stand Adjustable,Electronics,92.86,75.7,5,687,Great product!,Leo L.,Yes,2023-03-23
+Pull Up Bar Door,Sports,82.69,75.32,5,70,Love it!,Frank U.,Yes,2022-08-20
+Laptop Stand Adjustable,Electronics,131.21,131.21,4,293,Great product!,Rachel W.,Yes,2023-04-29
+Air Fryer 5L,Home & Kitchen,37.83,37.83,2,195,Disappointed,Charlie R.,Yes,2024-06-08
+Coffee Maker Drip,Home & Kitchen,87.5,87.5,4,96,Best purchase ever,Grace E.,Yes,2023-10-27
+Dumbbell Set Adjustable,Sports,21.19,20.31,5,46,Best purchase ever,Karen H.,No,2022-01-31
+Cotton T-Shirt Classic,Clothing,65.42,53.75,1,25,Would not recommend,Rachel D.,Yes,2022-12-09
+Instant Pot 6Qt,Home & Kitchen,45.82,37.49,4,190,Amazing quality,Paul X.,Yes,2023-07-20
+Gym Gloves Grip,Sports,96.12,89.88,4,298,Great product!,Steve W.,Yes,2022-09-03
+Jump Starter Portable,Automotive,175.92,126.52,5,206,Very satisfied,Grace Y.,Yes,2024-03-21
+Python for Beginners,Books,31.0,26.71,5,151,Best purchase ever,Hank K.,Yes,2023-05-13
+Webcam 1080p HD,Electronics,45.66,40.89,4,8,Very satisfied,Leo I.,Yes,2022-01-19
+Thinking Fast and Slow,Books,23.88,18.2,4,691,Very satisfied,Quinn V.,Yes,2022-03-28
+Machine Learning Guide,Books,30.51,22.43,5,320,Worth every penny,Nick I.,Yes,2024-08-31
+Lip Balm Natural,Beauty,23.18,21.06,4,69,Great product!,Bob C.,Yes,2022-11-14
+Face Moisturizer SPF,Beauty,5.7,5.7,4,782,Great product!,Leo L.,Yes,2024-01-31
+Cotton T-Shirt Classic,Clothing,74.47,59.15,4,184,Best purchase ever,Olivia P.,Yes,2022-07-03
+Atomic Habits,Books,29.41,29.41,3,174,Okay product,Quinn Q.,Yes,2023-05-25
+Data Science Handbook,Books,39.37,35.27,3,275,Does the job,Diana P.,Yes,2022-11-19
+Blender High Speed,Home & Kitchen,30.75,30.75,4,334,Highly recommend,Rachel V.,Yes,2024-10-20
+Formal Shirt White,Clothing,17.58,17.58,4,213,Amazing quality,Rachel J.,No,2022-07-07
+Water Filter Pitcher,Home & Kitchen,104.25,75.62,5,27,Best purchase ever,Olivia T.,No,2023-11-25
+Power Bank 20000mAh,Electronics,198.39,198.39,4,82,Very satisfied,Leo Z.,Yes,2022-05-03
+Machine Learning Guide,Books,16.45,16.45,5,526,Highly recommend,Charlie G.,Yes,2022-05-03
+Magnetic Tiles 60pc,Toys,17.98,13.51,5,50,Very satisfied,Olivia C.,Yes,2023-12-30
+Formal Shirt White,Clothing,71.68,64.33,1,93,Broke quickly,Charlie M.,Yes,2022-11-12
+Non-Stick Pan Set,Home & Kitchen,67.82,67.82,5,113,Love it!,Frank J.,Yes,2022-08-08
+Coffee Maker Drip,Home & Kitchen,61.64,61.64,3,115,Average quality,Charlie D.,No,2022-09-15
+Eye Cream Anti-Age,Beauty,11.37,11.04,5,189,Best purchase ever,Frank I.,No,2024-09-26
+Hair Dryer Ionic,Beauty,5.53,5.53,3,573,Decent product,Diana W.,Yes,2023-04-22
+Shampoo Argan Oil,Beauty,41.48,30.78,4,55,Exceeded expectations,Eve P.,Yes,2023-10-11
+Formal Shirt White,Clothing,33.5,26.6,2,25,Poor quality,Eve G.,Yes,2023-12-13
+Running Jacket Lite,Clothing,77.35,77.28,5,43,Worth every penny,Quinn U.,Yes,2024-06-17
+Air Fryer 5L,Home & Kitchen,134.2,114.5,5,435,Very satisfied,Alice J.,Yes,2023-01-31
+Pull Up Bar Door,Sports,50.22,45.14,5,207,Love it!,Nick V.,Yes,2022-02-13
+Lip Balm Natural,Beauty,15.55,15.55,2,67,Would not recommend,Rachel E.,Yes,2024-02-13
+USB-C Hub 7-in-1,Electronics,89.54,89.54,5,338,Worth every penny,Paul L.,Yes,2024-01-04
+Bluetooth Speaker Mini,Electronics,65.78,65.78,4,395,Worth every penny,Nick O.,Yes,2022-10-03
+Toaster Oven Digital,Home & Kitchen,110.18,84.24,5,374,Love it!,Alice J.,No,2023-05-29
+Science Kit Kids,Toys,74.98,74.98,4,502,Very satisfied,Grace C.,Yes,2022-03-22
+Tire Pressure Gauge,Automotive,160.64,140.97,3,58,Good for the price,Alice Z.,Yes,2024-09-20
+Coffee Maker Drip,Home & Kitchen,35.69,35.69,1,281,Poor quality,Hank Q.,Yes,2024-06-15
+Winter Coat Warm,Clothing,60.85,50.3,4,123,Best purchase ever,Karen N.,Yes,2023-08-27
+Smart Watch X200,Electronics,35.18,27.38,5,369,Best purchase ever,Steve K.,Yes,2024-09-30
+Instant Pot 6Qt,Home & Kitchen,83.74,62.72,2,260,Not as advertised,Karen P.,Yes,2023-01-24
+Hair Dryer Ionic,Beauty,42.31,41.61,5,299,Love it!,Steve V.,No,2023-01-18
+Sports Socks Pack,Clothing,53.28,52.32,4,213,Very satisfied,Quinn R.,Yes,2023-12-14
+Blender High Speed,Home & Kitchen,100.47,100.47,5,39,Exceeded expectations,Olivia O.,No,2023-10-25
+Makeup Brush Set,Beauty,54.39,54.39,4,157,Worth every penny,Jack S.,Yes,2024-08-17
+Wireless Earbuds Pro,Electronics,195.09,152.33,4,835,Amazing quality,Eve Z.,Yes,2023-07-18
+Foam Roller Deep,Sports,62.59,55.93,5,554,Highly recommend,Jack F.,Yes,2022-11-25
+Winter Coat Warm,Clothing,18.4,15.99,3,8,As described,Iris H.,Yes,2022-05-22
+Casual Hoodie,Clothing,40.85,34.86,3,36,Average quality,Paul L.,Yes,2024-12-23
+Power Bank 20000mAh,Electronics,63.89,63.89,5,28,Exceeded expectations,Jack Y.,Yes,2022-11-14
+Atomic Habits,Books,9.39,7.46,5,258,Exceeded expectations,Bob E.,Yes,2024-07-09
+Deep Work,Books,25.78,20.98,4,340,Worth every penny,Leo J.,No,2023-08-29
+Foam Roller Deep,Sports,73.57,56.96,4,48,Exceeded expectations,Olivia F.,No,2023-06-24
+Wireless Earbuds Pro,Electronics,57.43,57.43,5,140,Very satisfied,Tina F.,No,2024-01-22
+Laptop Stand Adjustable,Electronics,177.52,160.69,4,367,Highly recommend,Rachel J.,Yes,2024-07-18
+Eye Cream Anti-Age,Beauty,34.76,27.77,1,263,Would not recommend,Frank F.,Yes,2022-01-02
+Non-Stick Pan Set,Home & Kitchen,100.86,100.86,3,156,Average quality,Eve F.,Yes,2024-11-02
+Wireless Earbuds Pro,Electronics,137.42,128.27,5,178,Amazing quality,Hank D.,Yes,2024-02-16
+Vitamin C Serum,Beauty,32.5,32.5,5,142,Worth every penny,Bob K.,Yes,2023-01-15
+Power Bank 20000mAh,Electronics,140.6,109.96,1,70,Not worth it,Steve E.,Yes,2022-02-08
+Atomic Habits,Books,13.75,13.75,4,166,Great product!,Olivia I.,Yes,2024-01-16
+Running Jacket Lite,Clothing,73.43,56.3,4,233,Great product!,Leo F.,Yes,2023-05-05
+Winter Coat Warm,Clothing,14.81,13.84,5,413,Love it!,Grace R.,No,2023-10-19
+Laptop Stand Adjustable,Electronics,188.85,188.85,1,202,Poor quality,Bob V.,Yes,2022-05-10
+Resistance Bands Set,Sports,103.56,99.69,3,286,Does the job,Karen L.,Yes,2024-03-04
+Lip Balm Natural,Beauty,52.82,49.76,5,34,Exceeded expectations,Eve L.,Yes,2023-01-24
+Blender High Speed,Home & Kitchen,118.18,118.18,3,123,Good for the price,Olivia R.,No,2024-12-09
+USB-C Hub 7-in-1,Electronics,60.05,60.05,5,1,Great product!,Frank R.,Yes,2024-10-15
+Casual Hoodie,Clothing,13.52,10.61,4,56,Highly recommend,Jack D.,Yes,2022-11-12
+Running Jacket Lite,Clothing,49.02,49.02,2,259,Poor quality,Alice M.,Yes,2023-08-03
+Thinking Fast and Slow,Books,20.9,20.9,4,960,Best purchase ever,Paul Y.,Yes,2023-10-23
+Instant Pot 6Qt,Home & Kitchen,30.74,30.74,5,20,Highly recommend,Eve O.,Yes,2024-04-19
+Sports Socks Pack,Clothing,66.58,66.58,5,102,Worth every penny,Karen E.,Yes,2023-10-22
+Yoga Pants Flex,Clothing,16.65,12.56,5,321,Highly recommend,Alice X.,Yes,2022-08-15
+Gym Gloves Grip,Sports,58.07,52.46,4,45,Worth every penny,Rachel Q.,Yes,2022-07-17
+Power Bank 20000mAh,Electronics,197.41,170.86,5,161,Very satisfied,Karen U.,Yes,2024-12-07
+Casual Hoodie,Clothing,55.74,45.75,4,264,Amazing quality,Jack P.,No,2022-05-17
+Clean Code,Books,20.91,16.26,4,191,Love it!,Jack Y.,Yes,2022-03-31
+Smart Watch X200,Electronics,118.07,107.91,5,41,Love it!,Steve V.,Yes,2022-09-23
+Thinking Fast and Slow,Books,35.42,26.31,1,87,Disappointed,Eve Z.,Yes,2023-01-01
+Deep Work,Books,39.81,31.06,2,306,Broke quickly,Steve X.,Yes,2022-03-06
+Dash Cam 4K,Automotive,62.77,55.98,4,161,Amazing quality,Olivia K.,Yes,2023-02-18
+Slim Fit Jeans,Clothing,50.35,50.35,1,1,Not worth it,Diana X.,Yes,2022-08-08
+Car Phone Mount,Automotive,124.64,112.61,3,286,As described,Paul B.,Yes,2024-09-21
+Non-Stick Pan Set,Home & Kitchen,67.23,56.29,5,7,Highly recommend,Eve V.,Yes,2023-01-28
+Running Jacket Lite,Clothing,67.65,54.54,4,273,Great product!,Rachel D.,Yes,2022-07-22
+Machine Learning Guide,Books,19.61,15.41,5,45,Very satisfied,Jack A.,Yes,2022-03-07
+Blender High Speed,Home & Kitchen,98.98,84.74,5,634,Very satisfied,Mia T.,No,2024-03-06
+Water Filter Pitcher,Home & Kitchen,106.42,103.99,4,91,Highly recommend,Hank O.,Yes,2024-09-30
+Smart Watch X200,Electronics,98.72,98.72,4,79,Highly recommend,Leo C.,Yes,2024-12-12
+Non-Stick Pan Set,Home & Kitchen,118.71,86.19,4,32,Highly recommend,Karen B.,Yes,2023-06-09
+Thinking Fast and Slow,Books,8.56,8.56,5,72,Great product!,Tina U.,Yes,2022-04-11
+Vitamin C Serum,Beauty,51.13,48.76,4,418,Highly recommend,Grace S.,Yes,2024-01-21
+Sports Socks Pack,Clothing,48.83,35.3,5,1121,Exceeded expectations,Quinn H.,Yes,2023-03-29
+Yoga Mat Extra Thick,Sports,86.63,86.63,4,91,Highly recommend,Iris G.,No,2022-05-26
+Water Filter Pitcher,Home & Kitchen,137.08,137.08,5,119,Worth every penny,Alice C.,Yes,2022-01-27
+Running Jacket Lite,Clothing,20.82,15.1,4,256,Love it!,Rachel O.,Yes,2023-03-04
+Toaster Oven Digital,Home & Kitchen,117.02,117.02,4,434,Exceeded expectations,Charlie Q.,Yes,2024-10-03
+Water Filter Pitcher,Home & Kitchen,34.89,32.88,5,179,Amazing quality,Mia G.,Yes,2022-06-13
+Air Fryer 5L,Home & Kitchen,45.47,45.47,5,99,Very satisfied,Paul K.,Yes,2024-08-16
+Water Filter Pitcher,Home & Kitchen,141.42,127.72,3,106,Okay product,Tina T.,Yes,2022-05-05
+Knife Set Premium,Home & Kitchen,48.03,35.59,5,237,Very satisfied,Quinn B.,Yes,2024-01-10
+Yoga Mat Extra Thick,Sports,88.28,79.94,4,1,Highly recommend,Leo M.,Yes,2024-05-01
+Toaster Oven Digital,Home & Kitchen,118.43,101.82,5,193,Exceeded expectations,Eve W.,Yes,2024-01-26
+Lip Balm Natural,Beauty,56.95,56.95,5,87,Love it!,Nick L.,Yes,2022-04-30
+Air Fryer 5L,Home & Kitchen,97.04,97.04,4,316,Love it!,Mia L.,Yes,2023-06-29
+Casual Hoodie,Clothing,43.01,43.01,1,19,Not worth it,Alice J.,No,2024-12-19
+Slim Fit Jeans,Clothing,76.93,54.02,4,177,Highly recommend,Leo L.,Yes,2022-03-25
+Python for Beginners,Books,38.84,33.41,5,131,Worth every penny,Jack O.,No,2022-05-25
+Toaster Oven Digital,Home & Kitchen,88.95,88.95,5,205,Very satisfied,Rachel C.,Yes,2023-09-15
+Mechanical Keyboard RGB,Electronics,117.84,105.86,4,13,Best purchase ever,Grace X.,Yes,2022-06-09
+Slim Fit Jeans,Clothing,69.21,69.19,3,173,Decent product,Olivia X.,Yes,2023-03-19
+Air Fryer 5L,Home & Kitchen,140.17,126.89,5,164,Worth every penny,Nick Z.,Yes,2024-11-29
+Smart Watch X200,Electronics,142.99,142.99,5,164,Very satisfied,Olivia J.,Yes,2022-07-18
+Power Bank 20000mAh,Electronics,150.14,112.69,5,185,Love it!,Frank Z.,Yes,2022-07-27
+Python for Beginners,Books,12.3,11.43,3,225,Does the job,Nick X.,Yes,2023-04-19
+Seat Cushion Memory Foam,Automotive,112.58,84.71,4,326,Exceeded expectations,Nick E.,Yes,2024-12-24
+The Lean Startup,Books,24.62,24.62,1,62,Disappointed,Steve T.,Yes,2024-02-29
+Hair Dryer Ionic,Beauty,29.02,29.02,5,348,Amazing quality,Charlie E.,Yes,2023-01-24
+Jump Rope Speed,Sports,110.58,110.58,3,137,Does the job,Grace J.,No,2023-01-31
+Winter Coat Warm,Clothing,29.64,29.64,5,16,Best purchase ever,Paul Q.,Yes,2024-12-13
+Pull Up Bar Door,Sports,117.19,88.03,4,12,Love it!,Karen C.,Yes,2023-05-25
+The Lean Startup,Books,33.75,27.05,5,81,Worth every penny,Steve Y.,Yes,2023-01-02
+Water Bottle Insulated,Sports,55.22,52.43,5,307,Exceeded expectations,Mia C.,Yes,2024-04-30
+Toaster Oven Digital,Home & Kitchen,136.23,130.42,5,245,Best purchase ever,Alice N.,Yes,2022-08-05
+Winter Coat Warm,Clothing,31.91,31.91,4,310,Worth every penny,Iris N.,Yes,2024-01-04
+Smart Watch X200,Electronics,116.83,91.06,1,145,Not worth it,Frank R.,Yes,2024-07-28
+Puzzle 1000pc Nature,Toys,67.94,67.94,3,116,Average quality,Olivia W.,Yes,2024-05-24
+Mechanical Keyboard RGB,Electronics,132.03,108.01,5,31,Best purchase ever,Steve Y.,Yes,2022-08-02
+Remote Control Car,Toys,27.77,27.18,5,79,Best purchase ever,Eve G.,Yes,2022-12-08
+Hair Dryer Ionic,Beauty,21.47,18.35,5,113,Very satisfied,Frank M.,No,2023-01-05
+Toaster Oven Digital,Home & Kitchen,139.75,137.04,5,18,Love it!,Jack R.,Yes,2024-04-02
+Jump Starter Portable,Automotive,177.82,169.73,5,49,Great product!,Paul B.,Yes,2024-10-30
+Board Game Family,Toys,88.01,88.01,3,182,Average quality,Jack S.,Yes,2023-11-23
+Yoga Mat Extra Thick,Sports,65.43,65.43,5,266,Exceeded expectations,Jack P.,Yes,2022-11-20
+Cotton T-Shirt Classic,Clothing,55.57,43.87,4,1281,Great product!,Rachel X.,No,2024-12-29
+Foam Roller Deep,Sports,21.42,21.42,4,540,Highly recommend,Olivia H.,Yes,2024-06-26
+Power Bank 20000mAh,Electronics,120.01,120.01,5,205,Highly recommend,Alice Z.,Yes,2023-12-23
+The Lean Startup,Books,27.25,22.36,2,109,Poor quality,Alice E.,No,2023-10-08
+The Lean Startup,Books,31.71,31.71,3,202,Does the job,Iris J.,Yes,2023-10-27
+Non-Stick Pan Set,Home & Kitchen,118.21,89.75,5,308,Best purchase ever,Paul D.,Yes,2024-02-01
+Non-Stick Pan Set,Home & Kitchen,57.66,55.9,2,25,Not worth it,Jack N.,Yes,2024-04-24
+Thinking Fast and Slow,Books,34.86,33.95,5,105,Best purchase ever,Frank P.,Yes,2024-05-31
+Pull Up Bar Door,Sports,20.41,20.41,4,366,Great product!,Hank A.,Yes,2023-10-25
+Puzzle 1000pc Nature,Toys,22.62,17.53,4,96,Best purchase ever,Diana Y.,No,2023-05-08
+Laptop Stand Adjustable,Electronics,25.96,21.09,4,169,Great product!,Iris P.,No,2023-03-15
+USB-C Hub 7-in-1,Electronics,153.78,153.78,4,177,Exceeded expectations,Charlie T.,Yes,2024-02-08
+Smart Watch X200,Electronics,197.94,170.41,5,40,Great product!,Leo S.,Yes,2023-06-05
+Face Moisturizer SPF,Beauty,18.78,18.78,4,89,Amazing quality,Paul S.,Yes,2024-01-08
+The Lean Startup,Books,30.59,27.44,5,81,Best purchase ever,Nick I.,No,2024-07-15
+Face Moisturizer SPF,Beauty,17.21,12.77,4,5,Best purchase ever,Paul W.,Yes,2024-07-05
+USB-C Hub 7-in-1,Electronics,21.47,15.07,5,4,Amazing quality,Diana L.,Yes,2024-03-24
+USB-C Hub 7-in-1,Electronics,34.95,31.9,5,356,Love it!,Quinn X.,Yes,2022-01-01
+Resistance Bands Set,Sports,90.82,90.82,5,63,Love it!,Steve A.,Yes,2022-03-12
+Vitamin C Serum,Beauty,46.82,46.82,4,145,Great product!,Iris F.,Yes,2023-08-06
+Cotton T-Shirt Classic,Clothing,38.21,38.21,1,70,Poor quality,Steve B.,Yes,2022-02-03
+Sports Socks Pack,Clothing,65.89,52.67,4,564,Exceeded expectations,Eve K.,Yes,2024-11-26
+Wireless Earbuds Pro,Electronics,69.2,69.2,5,60,Best purchase ever,Olivia W.,Yes,2022-10-04
+Board Game Family,Toys,14.25,14.03,2,112,Would not recommend,Eve L.,Yes,2023-09-11
+Cotton T-Shirt Classic,Clothing,38.12,37.92,4,412,Worth every penny,Frank B.,Yes,2022-01-14
+The Lean Startup,Books,18.99,18.99,5,368,Very satisfied,Iris L.,No,2023-09-08
+Power Bank 20000mAh,Electronics,25.94,22.01,4,41,Love it!,Nick U.,Yes,2023-03-31
+Makeup Brush Set,Beauty,19.81,14.62,5,324,Best purchase ever,Leo B.,Yes,2023-03-16
+USB-C Hub 7-in-1,Electronics,176.23,164.62,3,122,Good for the price,Jack J.,Yes,2023-10-07
+Python for Beginners,Books,35.55,35.55,2,131,Poor quality,Quinn U.,Yes,2022-02-14
+Instant Pot 6Qt,Home & Kitchen,112.59,103.87,5,28,Highly recommend,Charlie Q.,Yes,2023-07-20
+Knife Set Premium,Home & Kitchen,68.8,50.87,4,16,Great product!,Grace Y.,No,2024-11-13
+Board Game Family,Toys,54.72,51.32,5,260,Love it!,Frank Y.,Yes,2022-11-13
+Yoga Pants Flex,Clothing,24.74,24.74,4,137,Best purchase ever,Diana T.,Yes,2022-07-13
+Blender High Speed,Home & Kitchen,145.85,145.85,4,114,Exceeded expectations,Frank R.,Yes,2022-03-19
+USB-C Hub 7-in-1,Electronics,99.02,99.02,5,261,Amazing quality,Karen K.,No,2024-07-31
+Formal Shirt White,Clothing,15.21,10.88,5,290,Worth every penny,Jack I.,Yes,2023-12-30
+Bluetooth Speaker Mini,Electronics,150.99,125.16,5,34,Highly recommend,Leo D.,Yes,2022-11-16
+Clean Code,Books,20.56,14.44,4,188,Amazing quality,Rachel S.,Yes,2022-10-11
+Winter Coat Warm,Clothing,30.03,23.56,5,29,Love it!,Leo E.,Yes,2023-06-27
+Stuffed Animal Bear,Toys,21.4,21.4,4,278,Exceeded expectations,Alice E.,Yes,2024-01-22
+Laptop Stand Adjustable,Electronics,171.51,151.84,2,213,Disappointed,Quinn J.,No,2023-05-27
+Cotton T-Shirt Classic,Clothing,34.13,25.8,5,627,Great product!,Leo Y.,Yes,2023-04-23
+Running Jacket Lite,Clothing,75.62,75.62,3,14,Okay product,Paul N.,Yes,2023-06-09
+Science Kit Kids,Toys,22.79,22.79,5,11,Amazing quality,Karen F.,Yes,2023-09-08
+Shampoo Argan Oil,Beauty,38.82,38.82,4,66,Worth every penny,Diana G.,No,2022-07-08
